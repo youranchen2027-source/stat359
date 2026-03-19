@@ -79,9 +79,13 @@ poetry run python evaluate_persona_models.py \
   --max_judge_samples 100
 ```
 
+Visualize evaluation results
+```bash
+poetry run python plot_ttr_bigram_metrics.py
 
-
-
-
+poetry run python visualize_evaluation.py \
+  --results_dir ./evaluation_results \
+  --out_dir ./evaluation_results/figures
+```
 
   
