@@ -1,0 +1,2000 @@
+Tell me about why large language models matters? Please keep it short.
+I studied hard but my exam score was still disappointing. I need advice. Please keep it short.
+I feel burned out because of my grades. Can you help me? Please be direct.
+I am exhausted about my social life. Do you have any advice?
+What should I do to build better habits more consistently? Please be supportive.
+I am stressed about my study schedule. Do you have any advice? Please be supportive.
+I am frustrated about my confidence. Do you have any advice? Please give practical advice.
+I have been struggling with my time management for the past few weeks. Can you help? Please be direct.
+Do you have advice on how to balance school and rest without feeling overwhelmed? Please be direct.
+How can I manage stress? Please make it easy to understand.
+I have been struggling with my friendships recently. Can you help? Please keep it simple.
+Can you describe transformers in simple terms? Please keep it short.
+I am afraid about my time management. Do you have any advice? Please be direct.
+Tell me about deep learning like I am a beginner? Please be direct.
+Please explain gradient descent like I am a beginner? Please be supportive.
+What is the best way to be more productive? Please keep it simple.
+What is a healthy way to think about failure? Please give practical advice.
+I am sad about my time management. Do you have any advice? Please give practical advice.
+Can you help me make a better workflow? Please be supportive.
+How can I stop procrastinating when I already feel exhausted? Please be direct.
+I feel worried because of my grades. Can you help me? Please keep it simple.
+I have been feeling afraid about my exam lately. What should I do? Please be direct.
+I am worried that I am not capable enough.
+Please explain why attention mechanisms matters?
+I feel overwhelmed, and I still need to stay focused. What should I do? Please be supportive.
+Can we talk about learning? Please keep it simple.
+I have been feeling frustrated about my grades lately. What should I do? Please make it easy to understand.
+I feel anxious because of my workload. Can you help me? Please keep it simple.
+How can I study more effectively when I already feel upset? Please be direct.
+I have been feeling frustrated about my workload lately. What should I do? Please keep it short.
+How can I get better at joining a group conversation? Please give practical advice.
+I feel frustrated because of my social life. Can you help me? Please keep it short.
+I have been feeling upset about my exam lately. What should I do? Please keep it simple.
+Can you explain why large language models matters? Please make it easy to understand.
+I feel hopeless, and I still need to stay focused. What should I do? Please be direct.
+Can you help me understand diffusion models in simple terms? Please give practical advice.
+Can you explain probability like I am a beginner? Please keep it simple.
+I am hopeless about my grades. Do you have any advice? Please make it easy to understand.
+I feel frustrated, and I still need to study more effectively. What should I do? Please make it easy to understand.
+Can you summarize large language models in simple terms? Please be direct.
+I feel stuck. Can you help me think clearly? Please be supportive.
+I have been feeling anxious about my social life lately. What should I do? Please make it easy to understand.
+Can you summarize probability in simple terms? Please keep it short.
+I have been feeling exhausted about my confidence lately. What should I do? Please be supportive.
+I have been feeling overwhelmed about my friendships lately. What should I do?
+Do you have advice on how to stop procrastinating without feeling overwhelmed? Please keep it short.
+I feel overwhelmed because of my confidence. Can you help me? Please be direct.
+I am frustrated about my workload. Do you have any advice? Please give practical advice.
+I feel hopeless because of my confidence. Can you help me? Please keep it short.
+Why do I always lose motivation so quickly? Please be direct.
+What should I do if I feel nervous about working in a team? Please keep it simple.
+Why is motivation important?
+I have been feeling burned out about my habits lately. What should I do?
+Can you explain diffusion models like I am a beginner? Please be direct.
+Can you help me understand large language models like I am a beginner? Please keep it short.
+How can I get better at making friends? Please keep it short.
+How can I stay focused more consistently? Please make it easy to understand.
+What is the best way to prepare for exams without feeling overwhelmed? Please be supportive.
+I feel lonely because of my future. Can you help me? Please be direct.
+Can we talk about success? Please keep it simple.
+I have been struggling with my confidence for the past few weeks. Can you help?
+I have been feeling frustrated about my friendships lately. What should I do? Please keep it short.
+Can you help me make a step-by-step plan for this week? Please keep it simple.
+I feel lonely because of my friendships. Can you help me?
+I feel afraid because of my future. Can you help me? Please be direct.
+I am anxious about my grades. Do you have any advice? Please keep it simple.
+Can you describe overfitting in simple terms? Please keep it short.
+Do you have advice on how to balance school and rest without feeling overwhelmed? Please make it easy to understand.
+How can I make a daily plan when I already feel lonely?
+Can you summarize regularization in simple terms? Please keep it simple.
+How can I build better habits without feeling overwhelmed? Please keep it short.
+Do you have advice on how to balance school and rest?
+Can you help me understand attention mechanisms like I am a beginner? Please be supportive.
+What is the best way to balance school and rest without feeling overwhelmed? Please be supportive.
+I have been feeling burned out about my friendships lately. What should I do? Please be supportive.
+Please explain diffusion models like I am a beginner? Please keep it simple.
+How do I study more effectively more consistently? Please be supportive.
+I feel afraid because of my social life. Can you help me? Please be direct.
+I feel lonely because of my friendships. Can you help me? Please give practical advice.
+What is the best way to stay focused more consistently? Please keep it simple.
+I am lonely about my social life. Do you have any advice? Please make it easy to understand.
+I am exhausted about my confidence. Do you have any advice? Please be direct.
+I have been feeling exhausted about my social life lately. What should I do? Please keep it simple.
+I am afraid about my grades. Do you have any advice? Please keep it simple.
+I feel afraid because of my habits. Can you help me? Please make it easy to understand.
+I am sad about my habits. Do you have any advice?
+Can you help me understand neural networks like I am a beginner? Please give practical advice.
+I am scared because my exam is coming up soon. Please keep it short.
+Can you explain neural networks like I am a beginner? Please be supportive.
+I have been feeling burned out about my time management lately. What should I do?
+What should I include in a study plan? Please be supportive.
+I have been feeling burned out about my grades lately. What should I do? Please make it easy to understand.
+I have been struggling with my friendships these days. Can you help? Please make it easy to understand.
+I am stressed about my exam. Do you have any advice? Please keep it short.
+What do you think about confidence? Please make it easy to understand.
+I feel like I am not smart enough. Please keep it simple.
+I have been struggling with my grades for the past few weeks. Can you help? Please keep it short.
+Can you summarize why diffusion models matters? Please make it easy to understand.
+I am upset about my workload. Do you have any advice? Please make it easy to understand.
+I have been feeling exhausted about my time management lately. What should I do? Please keep it simple.
+Can you explain large language models like I am a beginner? Please be direct.
+I have been struggling with my time management recently. Can you help? Please keep it simple.
+Can you help me understand machine learning like I am a beginner? Please be supportive.
+How can I study more effectively more consistently? Please be supportive.
+How can I stay focused when I already feel sad? Please keep it simple.
+Can you help me understand machine learning in simple terms? Please keep it short.
+I am burned out about my social life. Do you have any advice? Please be direct.
+I feel worried, and I still need to study more effectively. What should I do?
+I have been feeling upset about my study schedule lately. What should I do? Please make it easy to understand.
+How do I study more effectively?
+I have been struggling with my study schedule recently. Can you help? Please make it easy to understand.
+I have been struggling with my confidence these days. Can you help? Please give practical advice.
+I studied hard but my exam score was still disappointing. Please be direct.
+Do you have advice on how to stay focused without feeling overwhelmed? Please be supportive.
+Please explain neural networks in simple terms? Please be supportive.
+How can I build better habits when I already feel burned out? Please give practical advice.
+Can you summarize large language models in simple terms? Please keep it simple.
+Can you encourage me a little? I do not feel very confident right now. Please be direct.
+Do you have advice on how to balance school and rest? Please make it easy to understand.
+How can I study more effectively when I already feel lonely? Please be supportive.
+Please explain why large language models matters? Please be direct.
+Why is motivation important? Please make it easy to understand.
+What do you think about failure? Please be direct.
+I feel sad, and I still need to build better habits. What should I do?
+Can you describe deep learning in simple terms? Please be supportive.
+Tell me about probability in simple terms? Please be supportive.
+What is a healthy way to think about confidence? Please be direct.
+I feel burned out because of my study schedule. Can you help me? Please keep it short.
+How can I study more effectively more consistently? Please make it easy to understand.
+I am overwhelmed about my habits. Do you have any advice? Please make it easy to understand.
+I feel sad because of my confidence. Can you help me? Please keep it simple.
+Can you help me understand overfitting like I am a beginner? Please keep it simple.
+I feel worried because of my habits. Can you help me? Please be direct.
+How can I build better habits? Please be supportive.
+How can I get better at joining a group conversation? Please keep it simple.
+I feel stressed because of my time management. Can you help me? Please be direct.
+I have been feeling upset about my motivation lately. What should I do? Please give practical advice.
+Can you explain transformers in simple terms? Please be direct.
+Can you explain why deep learning matters? Please give practical advice.
+How can I build better habits when I already feel upset? Please keep it short.
+I have been feeling afraid about my grades lately. What should I do? Please be supportive.
+I have been feeling afraid about my confidence lately. What should I do? Please keep it short.
+How can I study more effectively when I already feel anxious?
+I am burned out about my friendships. Do you have any advice? Please keep it short.
+What should I do if I feel nervous about talking to new people? Please be direct.
+I feel like everyone else is doing better than me. What should I do? Please keep it short.
+I feel hopeless, and I still need to make a daily plan. What should I do? Please give practical advice.
+I feel burned out, and I still need to make a daily plan. What should I do? Please be direct.
+I have been feeling worried about my study schedule lately. What should I do? Please be direct.
+How do I prepare for exams more consistently? Please give practical advice.
+What is the best way to be more productive without feeling overwhelmed?
+Please explain transformers in simple terms? Please be direct.
+How can I make a daily plan when I already feel frustrated? Please be direct.
+I am sad about my grades. Do you have any advice? Please be supportive.
+Can you summarize transformers like I am a beginner? Please keep it short.
+How do I study more effectively without feeling overwhelmed? Please make it easy to understand.
+Why do I procrastinate even when I care about the task? Please keep it short.
+Can you help me understand large language models in simple terms? Please make it easy to understand.
+I am exhausted about my friendships. Do you have any advice? Please keep it short.
+I am frustrated about my exam. Do you have any advice? Please be supportive.
+Please explain why regularization matters? Please be direct.
+I have been feeling burned out about my motivation lately. What should I do? Please make it easy to understand.
+I am worried about my social life. Do you have any advice?
+Can you summarize why gradient descent matters? Please give practical advice.
+What is a healthy way to think about stress? Please be direct.
+I am upset about my habits. Do you have any advice?
+How can I stop procrastinating when I already feel overwhelmed? Please be supportive.
+Can you summarize why probability matters? Please keep it short.
+I feel stressed because of my social life. Can you help me? Please be supportive.
+I am hopeless about my focus. Do you have any advice? Please be direct.
+I feel overwhelmed because of my friendships. Can you help me? Please be direct.
+How do I stop procrastinating without feeling overwhelmed? Please keep it simple.
+Can you comfort me? Please be direct.
+Do you have advice on how to study more effectively without feeling overwhelmed? Please be direct.
+Can you explain machine learning in simple terms? Please give practical advice.
+How can I study more effectively when I already feel afraid? Please give practical advice.
+What should I do to be more productive without feeling overwhelmed? Please keep it simple.
+I have been feeling sad about my workload lately. What should I do?
+I feel burned out, and I still need to prepare for exams. What should I do? Please keep it short.
+Do you have advice on how to be more productive? Please keep it simple.
+I feel anxious, and I still need to stay focused. What should I do? Please make it easy to understand.
+I need a little reassurance right now. I do not feel very confident right now.
+I am frustrated about my social life. Do you have any advice? Please be direct.
+How can I make a daily plan when I already feel upset? Please keep it simple.
+Tell me about Bayes' theorem like I am a beginner? Please be supportive.
+How do I build better habits? Please keep it simple.
+Can you help me understand Bayes' theorem in simple terms? Please keep it simple.
+Can you explain why transformers matters? Please keep it simple.
+I feel afraid because of my grades. Can you help me? Please be supportive.
+I feel stuck. Can you help me think clearly? Please keep it simple.
+Can you help me understand diffusion models in simple terms? Please be direct.
+What should I do to be more productive? Please give practical advice.
+I am stressed about my future. Do you have any advice? Please be direct.
+I have been feeling anxious about my motivation lately. What should I do?
+I feel frustrated, and I still need to stay focused. What should I do? Please keep it simple.
+I have been feeling upset about my exam lately. What should I do? Please be supportive.
+What should I include in a study plan? Please keep it simple.
+I feel overwhelmed because of my grades. Can you help me? Please keep it simple.
+Do you have advice on how to build better habits? Please make it easy to understand.
+Please explain Bayes' theorem like I am a beginner? Please keep it simple.
+What is the best way to build better habits without feeling overwhelmed? Please keep it short.
+Tell me about regularization like I am a beginner?
+Can you explain neural networks in simple terms? Please be supportive.
+I feel tired all the time. Please be direct.
+Can you comfort me? I do not feel very confident right now. Please keep it simple.
+I feel overwhelmed because of my focus. Can you help me? Please make it easy to understand.
+I have been feeling exhausted about my friendships lately. What should I do? Please be supportive.
+How can I stay focused when I already feel anxious?
+I feel burned out because of my social life. Can you help me?
+What is the best way to balance school and rest?
+I feel frustrated, and I still need to make a daily plan. What should I do? Please make it easy to understand.
+I feel hopeless, and I still need to study more effectively. What should I do? Please keep it short.
+Do you have advice on how to be more productive more consistently? Please give practical advice.
+I am sad about my study schedule. Do you have any advice? Please keep it short.
+I feel like everyone else is doing better than me. What should I do? Please keep it simple.
+Can you help me understand large language models like I am a beginner? Please keep it simple.
+What should I do to stay focused? Please be supportive.
+How can I balance school and rest without feeling overwhelmed?
+I feel unmotivated. Please be supportive.
+I am stressed about my focus. Do you have any advice? Please make it easy to understand.
+I am upset about my social life. Do you have any advice? Please be supportive.
+I feel worried, and I still need to stay focused. What should I do? Please be direct.
+I am hopeless about my motivation. Do you have any advice? Please give practical advice.
+Please explain why machine learning matters? Please give practical advice.
+I have been feeling stressed about my social life lately. What should I do? Please give practical advice.
+Can we talk about stress? Please keep it short.
+Can you describe gradient descent in simple terms?
+I feel worried, and I still need to build better habits. What should I do?
+I am exhausted about my motivation. Do you have any advice? Please give practical advice.
+What should I include in a step-by-step plan for this week? Please be supportive.
+I feel sad because of my social life. Can you help me? Please be direct.
+I have been feeling hopeless about my study schedule lately. What should I do?
+I have been feeling lonely about my confidence lately. What should I do? Please make it easy to understand.
+What should I do to balance school and rest? Please be supportive.
+What is the best way to manage stress more consistently? Please keep it short.
+I have been struggling with my social life these days. Can you help? Please give practical advice.
+I have been feeling sad about my focus lately. What should I do? Please make it easy to understand.
+I feel burned out, and I still need to study more effectively. What should I do? Please keep it short.
+I feel sad because of my exam. Can you help me? Please make it easy to understand.
+I have been feeling upset about my study schedule lately. What should I do? Please be direct.
+I have been struggling with my social life these days. Can you help? Please make it easy to understand.
+How can I stay focused when I already feel anxious? Please keep it simple.
+I have been feeling sad about my workload lately. What should I do? Please keep it short.
+Tell me about large language models like I am a beginner?
+I feel anxious because of my social life. Can you help me? Please keep it short.
+Can you comfort me? Please keep it short.
+I feel lonely, and I still need to stay focused. What should I do? Please keep it simple.
+I feel anxious because of my workload. Can you help me? Please make it easy to understand.
+I have been feeling burned out about my confidence lately. What should I do? Please keep it simple.
+I feel worried because of my motivation. Can you help me?
+I have been feeling overwhelmed about my workload lately. What should I do? Please be supportive.
+I am stressed about my exam. Do you have any advice?
+Tell me about large language models in simple terms? Please keep it short.
+Can you summarize large language models like I am a beginner? Please make it easy to understand.
+I feel afraid because of my social life. Can you help me? Please be supportive.
+Do you have advice on how to make a daily plan? Please keep it short.
+I am lonely about my motivation. Do you have any advice? Please be supportive.
+I have been feeling upset about my workload lately. What should I do? Please keep it simple.
+How can I build better habits when I already feel sad? Please make it easy to understand.
+I feel exhausted because of my confidence. Can you help me? Please be direct.
+Please explain diffusion models in simple terms? Please make it easy to understand.
+I have been feeling worried about my social life lately. What should I do? Please be supportive.
+What is the best way to make a daily plan? Please give practical advice.
+I am stressed about my workload. Do you have any advice? Please be supportive.
+Tell me about why large language models matters? Please make it easy to understand.
+How can I stop procrastinating when I already feel burned out? Please be direct.
+I have been feeling afraid about my social life lately. What should I do? Please be direct.
+I have been struggling with my motivation this semester. Can you help? Please keep it simple.
+Tell me about attention mechanisms in simple terms?
+I have been feeling sad about my confidence lately. What should I do? Please be direct.
+How do I be more productive without feeling overwhelmed? Please be supportive.
+I am sad about my habits. Do you have any advice? Please keep it simple.
+What is the best way to build better habits without feeling overwhelmed? Please be direct.
+How can I make a daily plan when I already feel frustrated? Please make it easy to understand.
+Can you help me calm down?
+Do you have advice on how to make a daily plan? Please give practical advice.
+I feel hopeless because of my social life. Can you help me? Please keep it short.
+Please explain regularization in simple terms? Please make it easy to understand.
+I have been feeling upset about my social life lately. What should I do? Please give practical advice.
+Do you have advice on how to make a daily plan without feeling overwhelmed? Please be supportive.
+I have been struggling with my motivation lately. Can you help?
+I feel stressed, and I still need to stop procrastinating. What should I do?
+How can I make a daily plan when I already feel exhausted? Please be supportive.
+I have been feeling upset about my focus lately. What should I do? Please give practical advice.
+Can you give me advice about working in a team? Please be supportive.
+I have been struggling with my social life this semester. Can you help?
+How do I be more productive without feeling overwhelmed? Please give practical advice.
+I am anxious about my exam. Do you have any advice? Please keep it simple.
+How do I stop procrastinating? Please give practical advice.
+Can you describe overfitting like I am a beginner? Please keep it short.
+Can you explain Bayes' theorem like I am a beginner? Please keep it simple.
+Please explain transformers in simple terms? Please keep it short.
+What is the best way to study more effectively? Please be supportive.
+I have been feeling sad about my friendships lately. What should I do? Please keep it short.
+I have been feeling afraid about my friendships lately. What should I do? Please keep it short.
+I feel exhausted because of my confidence. Can you help me? Please keep it short.
+How can I get better at making friends? Please make it easy to understand.
+Can you help me make a weekly schedule?
+Do you have advice on how to feel less anxious more consistently? Please be direct.
+I am lonely about my grades. Do you have any advice? Please make it easy to understand.
+What is the best way to study more effectively more consistently? Please be direct.
+I have been feeling stressed about my social life lately. What should I do? Please keep it short.
+I feel anxious, and I still need to build better habits. What should I do? Please be supportive.
+I feel worried because of my time management. Can you help me? Please keep it simple.
+Can you give me advice about dealing with awkward silence? Please give practical advice.
+I feel lonely because of my focus. Can you help me? Please give practical advice.
+I have been feeling overwhelmed about my exam lately. What should I do? Please be direct.
+I am lonely about my friendships. Do you have any advice? Please be supportive.
+I have been struggling with my friendships this semester. Can you help?
+How can I be more productive more consistently? Please be direct.
+I feel lonely, and I still need to stop procrastinating. What should I do? Please keep it simple.
+How do I make a daily plan? Please be direct.
+How can I stay focused when I already feel exhausted? Please keep it short.
+I feel overwhelmed because of my motivation. Can you help me? Please be supportive.
+I feel overwhelmed because of my grades. Can you help me? Please be supportive.
+I feel tired all the time. Can you help me think clearly? Please keep it short.
+What is a healthy way to think about friendship? Please be supportive.
+How can I study more effectively when I already feel frustrated? Please be direct.
+Can you describe why neural networks matters? Please give practical advice.
+I feel overwhelmed because of my time management. Can you help me? Please keep it short.
+I feel burned out, and I still need to stop procrastinating. What should I do? Please keep it short.
+I have been feeling upset about my friendships lately. What should I do? Please give practical advice.
+Can you summarize diffusion models in simple terms?
+I have been struggling with my grades for the past few weeks. Can you help? Please be supportive.
+How can I get better at asking for help? Please keep it simple.
+Can you explain diffusion models in simple terms? Please be direct.
+I am exhausted about my friendships. Do you have any advice? Please make it easy to understand.
+I feel lonely because of my habits. Can you help me? Please make it easy to understand.
+Can you help me understand why machine learning matters? Please be direct.
+I have been feeling overwhelmed about my habits lately. What should I do?
+I am starting to doubt myself. What should I do? Please keep it simple.
+I have been feeling upset about my focus lately. What should I do? Please be supportive.
+What is the best way to balance school and rest? Please give practical advice.
+Please explain why overfitting matters? Please give practical advice.
+What should I do to make a daily plan? Please be supportive.
+How can I make a daily plan without feeling overwhelmed? Please keep it simple.
+I need a little reassurance right now. I do not feel very confident right now. Please keep it short.
+What is the best way to balance school and rest more consistently? Please give practical advice.
+How can I stop procrastinating without feeling overwhelmed? Please make it easy to understand.
+Please explain machine learning like I am a beginner? Please make it easy to understand.
+How can I study more effectively? Please keep it simple.
+Why do I procrastinate even when I care about the task? Please make it easy to understand.
+Can you describe why overfitting matters? Please be supportive.
+Can you describe diffusion models like I am a beginner? Please be supportive.
+Why is rest important? Please be supportive.
+I have been struggling with my time management this semester. Can you help?
+I am stressed about my time management. Do you have any advice? Please be direct.
+I feel like I am wasting time. What should I do? Please be direct.
+What is the best way to be more productive without feeling overwhelmed? Please make it easy to understand.
+I am sad about my friendships. Do you have any advice? Please make it easy to understand.
+I am upset about my study schedule. Do you have any advice? Please give practical advice.
+I have been struggling with my grades these days. Can you help? Please give practical advice.
+I am afraid about my time management. Do you have any advice?
+Why is failure important?
+I am afraid about my confidence. Do you have any advice? Please keep it simple.
+I feel afraid, and I still need to prepare for exams. What should I do? Please keep it short.
+How do I build better habits? Please make it easy to understand.
+I am sad about my focus. Do you have any advice? Please be direct.
+I have been feeling worried about my study schedule lately. What should I do? Please keep it simple.
+Please explain overfitting like I am a beginner?
+Can you summarize why diffusion models matters?
+I failed my exam and feel terrible. I need advice. Please give practical advice.
+What should I include in a simple routine? Please be supportive.
+Tell me about why transformers matters? Please give practical advice.
+I have been feeling overwhelmed about my study schedule lately. What should I do? Please make it easy to understand.
+Can you describe why attention mechanisms matters? Please keep it short.
+I am scared because my exam is coming up soon. Please be direct.
+I feel burned out, and I still need to build better habits. What should I do?
+I feel lonely because of my confidence. Can you help me? Please give practical advice.
+Do you have advice on how to prepare for exams without feeling overwhelmed? Please keep it simple.
+I feel hopeless, and I still need to stay focused. What should I do? Please be supportive.
+I am burned out about my confidence. Do you have any advice? Please keep it simple.
+I feel overwhelmed, and I still need to stay focused. What should I do? Please give practical advice.
+Can you describe why attention mechanisms matters? Please make it easy to understand.
+Please explain deep learning like I am a beginner?
+Do you have advice on how to be more productive? Please give practical advice.
+What is the best way to build better habits? Please keep it simple.
+Do you have advice on how to be more productive? Please keep it short.
+What should I do if I feel nervous about asking for help? Please make it easy to understand.
+I feel stressed, and I still need to study more effectively. What should I do?
+I am starting to doubt myself. Please give practical advice.
+How can I study more effectively when I already feel upset? Please be supportive.
+I have been struggling with my study schedule these days. Can you help? Please give practical advice.
+I am exhausted about my workload. Do you have any advice? Please be supportive.
+Can you encourage me a little? Please keep it short.
+I feel burned out, and I still need to build better habits. What should I do? Please keep it simple.
+What is the best way to prepare for exams? Please make it easy to understand.
+I feel lonely because of my motivation. Can you help me? Please give practical advice.
+I have been feeling sad about my focus lately. What should I do? Please be direct.
+How can I prepare for exams when I already feel exhausted? Please be direct.
+I have been feeling upset about my motivation lately. What should I do? Please make it easy to understand.
+I am frustrated about my grades. Do you have any advice? Please give practical advice.
+I am lonely about my workload. Do you have any advice? Please be direct.
+I feel hopeless because of my exam. Can you help me? Please keep it simple.
+What should I do if I feel nervous about asking for help? Please be direct.
+I feel behind compared with everyone else. Please be direct.
+Do you have advice on how to make a daily plan without feeling overwhelmed? Please keep it short.
+How do I create a step-by-step plan for this week? Please keep it short.
+How can I stop procrastinating without feeling overwhelmed? Please keep it simple.
+How can I stay focused when I already feel burned out? Please give practical advice.
+Can you explain machine learning in simple terms? Please be supportive.
+I have been feeling exhausted about my confidence lately. What should I do? Please give practical advice.
+I feel hopeless because of my exam. Can you help me? Please be direct.
+I have been feeling hopeless about my focus lately. What should I do? Please keep it simple.
+I am lonely about my habits. Do you have any advice?
+How do I study more effectively? Please be direct.
+What is the best way to stop procrastinating without feeling overwhelmed? Please keep it short.
+I am exhausted about my study schedule. Do you have any advice? Please be supportive.
+I am afraid about my habits. Do you have any advice? Please give practical advice.
+How do I feel less anxious more consistently? Please keep it short.
+I feel burned out because of my habits. Can you help me? Please keep it short.
+I am overwhelmed about my exam. Do you have any advice?
+I feel sad because of my time management. Can you help me? Please keep it short.
+I have been feeling frustrated about my exam lately. What should I do? Please give practical advice.
+How can I prepare for exams when I already feel frustrated? Please be direct.
+I have been struggling with my exam for the past few weeks. Can you help? Please keep it simple.
+Can you say something supportive? I do not feel very confident right now. Please keep it short.
+I feel upset because of my confidence. Can you help me? Please keep it simple.
+Do you have advice on how to feel less anxious more consistently? Please keep it short.
+I feel upset because of my grades. Can you help me? Please give practical advice.
+Can you describe why regularization matters? Please be direct.
+I am stressed about my focus. Do you have any advice? Please keep it short.
+I feel exhausted, and I still need to stay focused. What should I do? Please keep it simple.
+I have been feeling frustrated about my motivation lately. What should I do? Please be direct.
+I am overwhelmed about my future. Do you have any advice? Please give practical advice.
+How do I be more productive more consistently? Please be direct.
+I feel tired all the time. What should I do? Please be supportive.
+I feel upset because of my workload. Can you help me? Please make it easy to understand.
+I have been feeling exhausted about my motivation lately. What should I do? Please be direct.
+How do I stop procrastinating? Please be direct.
+Can you help me calm down? Please make it easy to understand.
+Tell me about neural networks like I am a beginner?
+Can you explain large language models in simple terms?
+Can you help me understand Bayes' theorem like I am a beginner? Please keep it short.
+I am overwhelmed about my exam. Do you have any advice? Please keep it short.
+Please explain why diffusion models matters? Please keep it short.
+I feel stressed because of my grades. Can you help me? Please be supportive.
+I have been feeling burned out about my grades lately. What should I do?
+Why is learning important? Please be supportive.
+Can you describe probability in simple terms? Please be direct.
+Can you explain why overfitting matters? Please keep it simple.
+I feel burned out because of my social life. Can you help me? Please keep it simple.
+How can I build better habits? Please make it easy to understand.
+Can you summarize why neural networks matters? Please keep it simple.
+I feel upset because of my workload. Can you help me?
+I am worried about my study schedule. Do you have any advice? Please make it easy to understand.
+Can you give me advice about responding to criticism? Please keep it simple.
+I have been struggling with my social life for the past few weeks. Can you help?
+Do you have advice on how to study more effectively more consistently? Please be supportive.
+I feel lonely because of my workload. Can you help me? Please be supportive.
+Do you have advice on how to stay focused?
+Can you help me make a weekly schedule? Please keep it short.
+Do you have advice on how to stay focused more consistently?
+What should I do to stay focused more consistently? Please make it easy to understand.
+I feel stressed because of my confidence. Can you help me? Please make it easy to understand.
+I feel afraid, and I still need to build better habits. What should I do? Please give practical advice.
+Can you help me understand diffusion models like I am a beginner? Please give practical advice.
+I am anxious about my workload. Do you have any advice? Please make it easy to understand.
+Can you help me understand diffusion models like I am a beginner?
+Can you help me understand deep learning like I am a beginner?
+I feel overwhelmed, and I still need to stop procrastinating. What should I do?
+Can you say something supportive? Please give practical advice.
+I feel stressed because of my future. Can you help me? Please keep it simple.
+Tell me about probability like I am a beginner? Please be direct.
+What do you think about friendship? Please be supportive.
+I am worried about my habits. Do you have any advice? Please make it easy to understand.
+I am sad about my habits. Do you have any advice? Please give practical advice.
+Please explain machine learning in simple terms? Please keep it simple.
+Why is it so hard for me to stay consistent? Please be direct.
+I feel stressed, and I still need to study more effectively. What should I do? Please keep it simple.
+I feel like I keep failing. Please be supportive.
+I am stressed about my exam. Do you have any advice? Please be supportive.
+I feel hopeless because of my future. Can you help me? Please be supportive.
+I feel lonely because of my confidence. Can you help me? Please keep it simple.
+I am stressed about my focus. Do you have any advice? Please be supportive.
+Can you summarize machine learning in simple terms? Please make it easy to understand.
+I have been struggling with my exam for the past few weeks. Can you help? Please make it easy to understand.
+I feel afraid because of my friendships. Can you help me? Please give practical advice.
+I feel overwhelmed, and I still need to build better habits. What should I do? Please be direct.
+How can I prepare for exams when I already feel frustrated? Please give practical advice.
+I feel hopeless because of my habits. Can you help me?
+I am upset about my focus. Do you have any advice? Please keep it short.
+What should I do to stop procrastinating more consistently? Please be direct.
+I have been feeling worried about my motivation lately. What should I do? Please keep it short.
+I have been feeling afraid about my focus lately. What should I do?
+How can I prepare for exams when I already feel frustrated? Please make it easy to understand.
+I am afraid about my exam. Do you have any advice? Please make it easy to understand.
+How do I create a realistic plan for tomorrow? Please make it easy to understand.
+I feel worried, and I still need to prepare for exams. What should I do? Please keep it short.
+I feel exhausted because of my workload. Can you help me? Please keep it simple.
+How can I stay focused without feeling overwhelmed? Please be direct.
+I have been feeling stressed about my exam lately. What should I do? Please keep it simple.
+Can you explain why deep learning matters? Please be direct.
+I am upset about my friendships. Do you have any advice? Please give practical advice.
+How can I stay focused when I already feel stressed? Please be supportive.
+Can you explain why neural networks matters? Please be supportive.
+I feel overwhelmed because of my focus. Can you help me? Please keep it simple.
+How can I prepare for exams when I already feel exhausted? Please make it easy to understand.
+I have been struggling with my confidence these days. Can you help? Please be supportive.
+I have been struggling with my motivation lately. Can you help? Please give practical advice.
+I am hopeless about my future. Do you have any advice? Please keep it simple.
+I am sad about my grades. Do you have any advice?
+Can you describe why transformers matters? Please be supportive.
+What is the best way to stay focused without feeling overwhelmed? Please be direct.
+I feel overwhelmed, and I still need to study more effectively. What should I do? Please be supportive.
+I have been feeling sad about my time management lately. What should I do? Please be supportive.
+Can you describe deep learning in simple terms? Please give practical advice.
+I feel burned out because of my exam. Can you help me? Please be supportive.
+How can I make a daily plan when I already feel lonely? Please give practical advice.
+I feel burned out because of my time management. Can you help me? Please give practical advice.
+I feel upset, and I still need to stop procrastinating. What should I do? Please keep it short.
+Can you encourage me a little? I do not feel very confident right now. Please make it easy to understand.
+I feel afraid because of my focus. Can you help me? Please be supportive.
+What should I include in a realistic plan for tomorrow? Please make it easy to understand.
+What is the best way to manage stress more consistently? Please give practical advice.
+I have been feeling hopeless about my habits lately. What should I do? Please give practical advice.
+I feel sad because of my focus. Can you help me? Please make it easy to understand.
+I am stressed about my time management. Do you have any advice?
+Do you have advice on how to stay focused more consistently? Please be supportive.
+How can I stop procrastinating when I already feel lonely? Please give practical advice.
+How can I study more effectively when I already feel stressed? Please be direct.
+How do I make a daily plan without feeling overwhelmed? Please give practical advice.
+How can I prepare for exams when I already feel stressed? Please keep it short.
+What should I do to build better habits without feeling overwhelmed? Please keep it short.
+I have been feeling anxious about my habits lately. What should I do?
+I feel frustrated because of my habits. Can you help me?
+I feel afraid because of my motivation. Can you help me? Please be direct.
+I have been struggling with my confidence this semester. Can you help? Please be direct.
+Can you help me understand gradient descent in simple terms? Please give practical advice.
+I feel burned out because of my motivation. Can you help me? Please keep it simple.
+I feel upset, and I still need to make a daily plan. What should I do? Please keep it short.
+I feel upset because of my focus. Can you help me? Please make it easy to understand.
+Can you explain neural networks in simple terms? Please keep it short.
+I am stressed about my motivation. Do you have any advice? Please give practical advice.
+I have been feeling sad about my confidence lately. What should I do? Please give practical advice.
+I am exhausted about my friendships. Do you have any advice? Please be direct.
+I feel behind compared with everyone else. What should I do? Please keep it short.
+I feel lonely because of my motivation. Can you help me? Please make it easy to understand.
+I feel like I keep failing. What should I do?
+How do I be more productive? Please make it easy to understand.
+What is a healthy way to think about personal growth? Please keep it simple.
+I have been feeling burned out about my time management lately. What should I do? Please give practical advice.
+I feel frustrated because of my confidence. Can you help me? Please make it easy to understand.
+I feel like I am not smart enough. Can you help me think clearly? Please keep it short.
+What is the best way to feel less anxious without feeling overwhelmed? Please keep it short.
+Can you give me advice about speaking in class? Please be direct.
+I am burned out about my exam. Do you have any advice? Please make it easy to understand.
+I feel hopeless because of my workload. Can you help me? Please keep it simple.
+Can you describe why gradient descent matters? Please give practical advice.
+Can you describe neural networks in simple terms? Please be supportive.
+I feel hopeless because of my social life. Can you help me? Please give practical advice.
+I am stressed about my motivation. Do you have any advice? Please make it easy to understand.
+I feel anxious because of my habits. Can you help me? Please keep it simple.
+I feel afraid because of my exam. Can you help me? Please keep it simple.
+What should I do to study more effectively without feeling overwhelmed?
+How can I stop procrastinating when I already feel worried? Please keep it simple.
+Do you have advice on how to study more effectively? Please keep it simple.
+I feel exhausted because of my time management. Can you help me? Please be supportive.
+Can you help me make a realistic plan for tomorrow? Please keep it simple.
+How can I build better habits more consistently? Please be direct.
+I have been struggling with my social life these days. Can you help? Please keep it simple.
+Please explain why transformers matters? Please be direct.
+I feel lonely because of my focus. Can you help me? Please be supportive.
+I feel worried because of my study schedule. Can you help me? Please give practical advice.
+I am sad about my time management. Do you have any advice? Please keep it simple.
+I feel burned out, and I still need to build better habits. What should I do? Please be supportive.
+Can you summarize why attention mechanisms matters? Please be supportive.
+I have been feeling hopeless about my focus lately. What should I do? Please keep it short.
+I have been struggling with my exam this semester. Can you help? Please make it easy to understand.
+I feel unmotivated. Can you help me think clearly?
+Can you explain regularization like I am a beginner? Please make it easy to understand.
+I am lonely about my social life. Do you have any advice? Please keep it simple.
+Can you help me understand deep learning like I am a beginner? Please give practical advice.
+I feel overwhelmed because of my grades. Can you help me?
+I feel burned out because of my social life. Can you help me? Please make it easy to understand.
+I am overwhelmed about my friendships. Do you have any advice? Please keep it short.
+How can I prepare for exams? Please keep it simple.
+Can you explain machine learning like I am a beginner? Please keep it short.
+I have been feeling exhausted about my motivation lately. What should I do? Please be supportive.
+Do you have advice on how to make a daily plan more consistently? Please keep it short.
+How do I stop procrastinating more consistently? Please be supportive.
+How can I get better at speaking in class? Please be direct.
+I have been feeling lonely about my exam lately. What should I do?
+I feel worried, and I still need to make a daily plan. What should I do? Please keep it simple.
+Do you have advice on how to study more effectively more consistently? Please make it easy to understand.
+Can you help me calm down? I do not feel very confident right now. Please keep it simple.
+Can you explain why transformers matters? Please be direct.
+I feel sad because of my study schedule. Can you help me? Please be direct.
+I have been feeling exhausted about my friendships lately. What should I do? Please keep it simple.
+Why do I always lose motivation so quickly?
+How can I prepare for exams when I already feel burned out? Please be direct.
+I have been feeling anxious about my friendships lately. What should I do? Please keep it short.
+Tell me about machine learning like I am a beginner? Please keep it short.
+I have been struggling with my exam these days. Can you help?
+Can you describe transformers like I am a beginner? Please keep it short.
+I am afraid about my workload. Do you have any advice? Please be direct.
+I am stressed about my grades. Do you have any advice? Please make it easy to understand.
+Please explain why machine learning matters? Please keep it simple.
+How can I stop procrastinating when I already feel lonely? Please be supportive.
+I have been struggling with my confidence for the past few weeks. Can you help? Please give practical advice.
+Can you give me advice about joining a group conversation? Please give practical advice.
+I feel afraid because of my future. Can you help me?
+I feel burned out, and I still need to stop procrastinating. What should I do? Please be supportive.
+I failed my exam and feel terrible. Can you help me figure out what to do next? Please give practical advice.
+How can I feel less anxious? Please make it easy to understand.
+How can I study more effectively when I already feel lonely? Please be direct.
+I feel anxious, and I still need to prepare for exams. What should I do? Please make it easy to understand.
+Can you explain why regularization matters? Please keep it simple.
+I feel sad because of my confidence. Can you help me? Please keep it short.
+I feel stressed because of my grades. Can you help me?
+I feel burned out because of my friendships. Can you help me? Please give practical advice.
+I have been feeling burned out about my focus lately. What should I do? Please give practical advice.
+I am exhausted about my social life. Do you have any advice? Please make it easy to understand.
+Can you help me understand why neural networks matters? Please give practical advice.
+Can you give me advice about making friends? Please give practical advice.
+How can I make a daily plan when I already feel worried? Please make it easy to understand.
+Can you help me make a realistic plan for tomorrow? Please give practical advice.
+What should I do to stay focused without feeling overwhelmed?
+I am stressed about my grades. Do you have any advice? Please be supportive.
+I feel worried, and I still need to study more effectively. What should I do? Please keep it short.
+How can I stop procrastinating? Please give practical advice.
+I feel frustrated because of my confidence. Can you help me? Please keep it simple.
+Do you have advice on how to be more productive without feeling overwhelmed? Please give practical advice.
+Can you help me understand why probability matters? Please give practical advice.
+How can I prepare for exams more consistently? Please keep it short.
+How can I build better habits when I already feel hopeless?
+What should I do to balance school and rest without feeling overwhelmed? Please keep it simple.
+Can we talk about friendship? Please be supportive.
+What should I do to build better habits more consistently? Please keep it short.
+I have been feeling worried about my grades lately. What should I do? Please make it easy to understand.
+Do you have advice on how to prepare for exams? Please be direct.
+I have been struggling with my motivation these days. Can you help? Please be direct.
+What is a healthy way to think about rest? Please keep it simple.
+Please explain attention mechanisms like I am a beginner? Please give practical advice.
+I feel overwhelmed, and I still need to make a daily plan. What should I do?
+I have been feeling afraid about my future lately. What should I do? Please give practical advice.
+Can we talk about personal growth? Please give practical advice.
+I have been feeling burned out about my time management lately. What should I do? Please be direct.
+How can I stop procrastinating when I already feel frustrated? Please be supportive.
+Can you help me understand probability in simple terms? Please be supportive.
+I feel stressed because of my habits. Can you help me? Please keep it simple.
+Do you have advice on how to balance school and rest without feeling overwhelmed? Please keep it short.
+I feel worried because of my exam. Can you help me? Please give practical advice.
+I feel upset because of my grades. Can you help me? Please keep it simple.
+I do not think I am good enough. What should I do? Please be direct.
+Can we talk about failure? Please keep it short.
+I am upset about my future. Do you have any advice? Please keep it short.
+How can I balance school and rest more consistently? Please be direct.
+Can you help me understand Bayes' theorem in simple terms? Please make it easy to understand.
+Can you summarize deep learning in simple terms? Please give practical advice.
+What is the best way to be more productive without feeling overwhelmed? Please keep it simple.
+I am burned out about my social life. Do you have any advice? Please be supportive.
+I am overwhelmed about my focus. Do you have any advice? Please keep it simple.
+I feel sad because of my social life. Can you help me? Please make it easy to understand.
+I feel hopeless because of my focus. Can you help me? Please keep it short.
+I have been feeling hopeless about my habits lately. What should I do? Please keep it simple.
+Tell me about why attention mechanisms matters? Please be supportive.
+Can you give me advice about responding to criticism? Please keep it short.
+I feel like everyone else is doing better than me. Can you encourage me? Please be supportive.
+I have been struggling with my time management recently. Can you help? Please be direct.
+I feel upset, and I still need to stay focused. What should I do?
+Do you have advice on how to build better habits? Please be supportive.
+How can I make a daily plan when I already feel sad? Please give practical advice.
+I am lonely about my exam. Do you have any advice? Please be direct.
+I am afraid about my confidence. Do you have any advice? Please be supportive.
+I am overwhelmed about my time management. Do you have any advice? Please keep it simple.
+I have been feeling burned out about my motivation lately. What should I do? Please keep it simple.
+Can you say something supportive? I have been under a lot of pressure lately. Please keep it simple.
+I have been struggling with my social life these days. Can you help? Please be supportive.
+I feel frustrated, and I still need to study more effectively. What should I do? Please be direct.
+Can you describe attention mechanisms like I am a beginner?
+What is the best way to manage stress more consistently?
+Do you have advice on how to make a daily plan more consistently? Please keep it simple.
+I have been feeling sad about my time management lately. What should I do? Please give practical advice.
+I have been struggling with my motivation for the past few weeks. Can you help? Please be supportive.
+I have been feeling stressed about my grades lately. What should I do? Please keep it short.
+Can you describe neural networks in simple terms?
+What do you think about friendship? Please be direct.
+I have been feeling exhausted about my habits lately. What should I do? Please keep it simple.
+I feel lonely because of my friendships. Can you help me? Please keep it simple.
+Can you help me understand large language models in simple terms? Please give practical advice.
+I have been feeling sad about my future lately. What should I do? Please be direct.
+Can you describe overfitting like I am a beginner? Please make it easy to understand.
+I feel anxious because of my confidence. Can you help me? Please give practical advice.
+How can I prepare for exams when I already feel burned out? Please give practical advice.
+I have been feeling exhausted about my social life lately. What should I do?
+Can you help me understand machine learning like I am a beginner? Please be direct.
+I feel frustrated because of my social life. Can you help me? Please make it easy to understand.
+I have been struggling with my study schedule these days. Can you help?
+Do you have advice on how to prepare for exams more consistently? Please keep it short.
+I feel sad because of my grades. Can you help me? Please make it easy to understand.
+I am stressed about my grades. Do you have any advice?
+I have been feeling sad about my social life lately. What should I do? Please keep it short.
+I am exhausted about my future. Do you have any advice? Please give practical advice.
+What should I do to stay focused without feeling overwhelmed? Please make it easy to understand.
+I feel afraid because of my time management. Can you help me? Please be direct.
+I am overwhelmed about my habits. Do you have any advice? Please keep it simple.
+I am lonely about my time management. Do you have any advice? Please make it easy to understand.
+I am burned out about my friendships. Do you have any advice? Please keep it simple.
+Can you summarize why Bayes' theorem matters? Please make it easy to understand.
+I feel worried, and I still need to stay focused. What should I do? Please keep it simple.
+Tell me about why transformers matters? Please be direct.
+I am exhausted about my time management. Do you have any advice?
+I feel anxious because of my motivation. Can you help me? Please give practical advice.
+I feel hopeless, and I still need to prepare for exams. What should I do? Please give practical advice.
+I have been feeling exhausted about my future lately. What should I do? Please make it easy to understand.
+Please explain why Bayes' theorem matters? Please be supportive.
+I have been feeling upset about my exam lately. What should I do? Please make it easy to understand.
+Can you describe why large language models matters?
+I have been feeling upset about my time management lately. What should I do? Please give practical advice.
+Can you help me make a simple routine? Please keep it simple.
+I feel stressed because of my habits. Can you help me? Please be direct.
+Can you give me advice about asking for help? Please be supportive.
+I have been feeling lonely about my friendships lately. What should I do? Please keep it simple.
+Can you describe why large language models matters? Please be supportive.
+I feel sad because of my friendships. Can you help me? Please be supportive.
+I am overwhelmed about my habits. Do you have any advice?
+I have been feeling overwhelmed about my motivation lately. What should I do? Please keep it short.
+I am burned out about my future. Do you have any advice? Please keep it short.
+Can you explain why machine learning matters? Please keep it short.
+I have been feeling overwhelmed about my confidence lately. What should I do? Please keep it simple.
+I have been feeling upset about my future lately. What should I do? Please make it easy to understand.
+I have been feeling stressed about my time management lately. What should I do? Please be direct.
+Can you explain why attention mechanisms matters? Please keep it simple.
+I am upset about my time management. Do you have any advice?
+I am exhausted about my social life. Do you have any advice? Please be direct.
+I am anxious about my focus. Do you have any advice? Please keep it short.
+Tell me about overfitting like I am a beginner? Please give practical advice.
+I have been feeling upset about my exam lately. What should I do? Please keep it short.
+I feel sad, and I still need to stop procrastinating. What should I do? Please give practical advice.
+What should I do to prepare for exams more consistently? Please make it easy to understand.
+I have been feeling exhausted about my grades lately. What should I do? Please keep it short.
+I am lonely about my time management. Do you have any advice? Please be supportive.
+Tell me about machine learning in simple terms? Please keep it simple.
+Can you explain overfitting like I am a beginner? Please be direct.
+I feel behind compared with everyone else. Please keep it short.
+I studied hard but my exam score was still disappointing. Please make it easy to understand.
+How can I manage stress without feeling overwhelmed? Please keep it simple.
+I am hopeless about my motivation. Do you have any advice? Please make it easy to understand.
+I feel like nothing is working. Can you help me think clearly?
+I have been struggling with my confidence this semester. Can you help? Please make it easy to understand.
+I feel frustrated because of my habits. Can you help me? Please make it easy to understand.
+Tell me about why large language models matters? Please give practical advice.
+I feel like I am falling behind. Please keep it short.
+Tell me about attention mechanisms in simple terms? Please be direct.
+I feel burned out because of my social life. Can you help me? Please be supportive.
+I do not think I am good enough. Please be direct.
+How can I be more productive? Please keep it short.
+I am afraid about my motivation. Do you have any advice? Please be direct.
+Can we talk about confidence? Please keep it short.
+I am lonely about my time management. Do you have any advice? Please be direct.
+Why is stress important? Please keep it short.
+Tell me about deep learning in simple terms? Please make it easy to understand.
+I feel behind compared with everyone else. What should I do? Please be direct.
+How can I prepare for exams when I already feel overwhelmed? Please be direct.
+Can you summarize probability in simple terms? Please be direct.
+Do you have advice on how to balance school and rest more consistently?
+Can you comfort me? I do not feel very confident right now. Please keep it short.
+Can you help me understand why neural networks matters? Please make it easy to understand.
+Please explain why probability matters? Please make it easy to understand.
+How can I manage stress? Please be supportive.
+I failed my exam and feel terrible. Can you help me figure out what to do next? Please be direct.
+I feel frustrated because of my friendships. Can you help me? Please be supportive.
+I am worried about my focus. Do you have any advice? Please keep it short.
+How can I stop procrastinating when I already feel burned out? Please keep it short.
+I feel worried, and I still need to study more effectively. What should I do? Please be supportive.
+I feel sad because of my focus. Can you help me?
+I am lonely about my workload. Do you have any advice? Please keep it simple.
+How can I build better habits when I already feel exhausted? Please be supportive.
+I have been feeling frustrated about my confidence lately. What should I do? Please keep it simple.
+How can I build better habits when I already feel worried? Please make it easy to understand.
+Can we talk about stress? Please be direct.
+I feel anxious because of my focus. Can you help me? Please give practical advice.
+Do you have advice on how to manage stress? Please be direct.
+Can you describe transformers like I am a beginner? Please give practical advice.
+How can I make a daily plan when I already feel lonely? Please keep it short.
+I have been feeling frustrated about my focus lately. What should I do?
+I feel like nothing is working. Can you help me think clearly? Please give practical advice.
+I feel lonely because of my future. Can you help me? Please give practical advice.
+I feel afraid because of my time management. Can you help me? Please make it easy to understand.
+I have been feeling anxious about my time management lately. What should I do?
+I have been feeling afraid about my social life lately. What should I do? Please give practical advice.
+Can you help me understand probability in simple terms? Please give practical advice.
+Can you help me understand diffusion models in simple terms? Please keep it simple.
+I am anxious about my confidence. Do you have any advice?
+I feel frustrated, and I still need to stop procrastinating. What should I do? Please give practical advice.
+Why is motivation important? Please keep it simple.
+I feel overwhelmed, and I still need to stay focused. What should I do?
+I feel behind compared with everyone else. Please give practical advice.
+I feel sad, and I still need to stop procrastinating. What should I do?
+Can you explain probability like I am a beginner? Please be supportive.
+I am exhausted about my exam. Do you have any advice? Please keep it simple.
+I have been feeling overwhelmed about my confidence lately. What should I do?
+Can you summarize neural networks in simple terms? Please give practical advice.
+I am lonely about my study schedule. Do you have any advice?
+Do you have advice on how to feel less anxious more consistently? Please be supportive.
+I am anxious about my motivation. Do you have any advice? Please give practical advice.
+Please explain diffusion models like I am a beginner?
+I am sad about my study schedule. Do you have any advice? Please make it easy to understand.
+What should I do if I feel nervous about responding to criticism? Please keep it short.
+Why is learning important? Please be direct.
+Can you describe diffusion models like I am a beginner?
+I have been feeling sad about my habits lately. What should I do? Please give practical advice.
+How can I stay focused when I already feel afraid?
+I feel overwhelmed, and I still need to stop procrastinating. What should I do? Please be supportive.
+I have been feeling hopeless about my study schedule lately. What should I do? Please be supportive.
+I am frustrated about my focus. Do you have any advice? Please keep it simple.
+I am upset about my grades. Do you have any advice? Please be supportive.
+Please explain why Bayes' theorem matters?
+I feel anxious, and I still need to make a daily plan. What should I do? Please be direct.
+Please explain why regularization matters? Please keep it simple.
+Can we talk about friendship? Please make it easy to understand.
+I have been feeling afraid about my time management lately. What should I do? Please keep it simple.
+I feel frustrated because of my study schedule. Can you help me? Please keep it short.
+Can you describe gradient descent in simple terms? Please keep it simple.
+I am stressed about my workload. Do you have any advice? Please make it easy to understand.
+I feel lonely because of my future. Can you help me? Please make it easy to understand.
+I feel frustrated, and I still need to build better habits. What should I do? Please keep it short.
+I feel frustrated, and I still need to build better habits. What should I do? Please keep it simple.
+Can you help me understand neural networks like I am a beginner? Please keep it simple.
+I am stressed about my motivation. Do you have any advice? Please keep it simple.
+Do you have advice on how to feel less anxious? Please make it easy to understand.
+I am lonely about my exam. Do you have any advice? Please keep it short.
+I feel sad because of my time management. Can you help me? Please give practical advice.
+How do I prepare for exams? Please be direct.
+How can I stay focused when I already feel overwhelmed? Please keep it short.
+I have been feeling anxious about my time management lately. What should I do? Please give practical advice.
+I have been struggling with my confidence this semester. Can you help? Please keep it simple.
+Can you summarize regularization in simple terms? Please make it easy to understand.
+I feel sad because of my workload. Can you help me? Please be supportive.
+I feel hopeless because of my habits. Can you help me? Please keep it simple.
+What should I do if I feel nervous about joining a group conversation? Please make it easy to understand.
+I have been feeling worried about my motivation lately. What should I do? Please make it easy to understand.
+Please explain why gradient descent matters? Please be supportive.
+Can you summarize why neural networks matters? Please give practical advice.
+What should I do to balance school and rest without feeling overwhelmed?
+I have been feeling afraid about my time management lately. What should I do? Please give practical advice.
+Why do I always lose motivation so quickly? Please keep it short.
+Can you summarize attention mechanisms like I am a beginner? Please keep it simple.
+How do I prepare for exams? Please keep it simple.
+What should I do to balance school and rest? Please give practical advice.
+What should I do to stop procrastinating more consistently?
+I have been feeling afraid about my workload lately. What should I do? Please be supportive.
+I feel upset because of my workload. Can you help me? Please keep it short.
+I am overwhelmed about my time management. Do you have any advice? Please keep it short.
+I feel upset because of my social life. Can you help me? Please keep it simple.
+I have been feeling stressed about my time management lately. What should I do? Please make it easy to understand.
+Can you describe deep learning like I am a beginner? Please give practical advice.
+I have been struggling with my friendships for the past few weeks. Can you help? Please be direct.
+I have been feeling anxious about my time management lately. What should I do? Please make it easy to understand.
+Can you summarize why transformers matters? Please keep it simple.
+I have been feeling lonely about my motivation lately. What should I do? Please keep it simple.
+Why do I compare myself to other people so much? Please be direct.
+I have been struggling with my time management this semester. Can you help? Please keep it short.
+I feel stressed, and I still need to study more effectively. What should I do? Please be direct.
+How can I get better at dealing with awkward silence? Please keep it simple.
+I am sad about my study schedule. Do you have any advice?
+I have been feeling sad about my social life lately. What should I do? Please give practical advice.
+Can you summarize why attention mechanisms matters? Please keep it simple.
+Tell me about regularization like I am a beginner? Please be supportive.
+I have been struggling with my grades this semester. Can you help? Please keep it simple.
+I feel stressed, and I still need to make a daily plan. What should I do? Please be supportive.
+What should I do to manage stress more consistently? Please make it easy to understand.
+I need a little reassurance right now. I do not feel very confident right now. Please be direct.
+What should I do to stay focused more consistently? Please keep it simple.
+How can I make a daily plan when I already feel frustrated?
+I feel stressed because of my grades. Can you help me? Please give practical advice.
+How can I prepare for exams when I already feel burned out? Please keep it short.
+I have been feeling burned out about my time management lately. What should I do? Please keep it short.
+I have been feeling sad about my exam lately. What should I do? Please be supportive.
+I feel exhausted because of my study schedule. Can you help me? Please be supportive.
+I have been feeling lonely about my grades lately. What should I do?
+I have been feeling burned out about my social life lately. What should I do? Please make it easy to understand.
+How can I prepare for exams when I already feel hopeless? Please give practical advice.
+Why is rest important? Please give practical advice.
+Can you summarize machine learning in simple terms?
+Tell me about why machine learning matters?
+Can you encourage me a little?
+Please explain large language models like I am a beginner? Please be direct.
+Can you help me understand Bayes' theorem like I am a beginner? Please give practical advice.
+What should I do if I feel nervous about dealing with awkward silence? Please give practical advice.
+I feel frustrated because of my habits. Can you help me? Please keep it short.
+Can you summarize overfitting in simple terms? Please be supportive.
+How can I study more effectively when I already feel sad? Please keep it short.
+How do I prepare for exams more consistently? Please be direct.
+I feel burned out because of my grades. Can you help me?
+Can you summarize why gradient descent matters? Please make it easy to understand.
+I have been feeling frustrated about my grades lately. What should I do? Please be supportive.
+What should I do to feel less anxious more consistently? Please keep it short.
+Tell me about large language models in simple terms? Please be supportive.
+How can I study more effectively when I already feel sad? Please be direct.
+Can you describe why transformers matters? Please give practical advice.
+Tell me about why machine learning matters? Please make it easy to understand.
+Why do I feel guilty when I rest? Please give practical advice.
+I have been struggling with my motivation recently. Can you help? Please give practical advice.
+How can I build better habits when I already feel frustrated? Please keep it short.
+Why do I compare myself to other people so much? Please keep it simple.
+What is a healthy way to think about success? Please make it easy to understand.
+Can you help me understand probability like I am a beginner? Please make it easy to understand.
+I feel anxious because of my friendships. Can you help me? Please give practical advice.
+I feel worried, and I still need to prepare for exams. What should I do?
+I am stressed about my future. Do you have any advice? Please keep it simple.
+I have been feeling overwhelmed about my social life lately. What should I do? Please be supportive.
+Can you summarize diffusion models like I am a beginner? Please be direct.
+I feel anxious, and I still need to build better habits. What should I do? Please be direct.
+Why do I compare myself to other people so much? Please keep it short.
+I am burned out about my workload. Do you have any advice? Please be supportive.
+How can I be more productive more consistently?
+I feel overwhelmed because of my future. Can you help me? Please keep it short.
+I feel overwhelmed because of my grades. Can you help me? Please make it easy to understand.
+I need a little reassurance right now. I have been under a lot of pressure lately. Please give practical advice.
+I have been feeling sad about my social life lately. What should I do? Please keep it simple.
+How do I stay focused without feeling overwhelmed? Please be supportive.
+Can you explain large language models like I am a beginner?
+I am burned out about my habits. Do you have any advice? Please be supportive.
+I am hopeless about my future. Do you have any advice? Please be supportive.
+I do not think I am good enough. What should I do?
+I feel overwhelmed because of my friendships. Can you help me? Please make it easy to understand.
+What is the best way to make a daily plan more consistently?
+Can you help me understand why attention mechanisms matters? Please give practical advice.
+I feel lonely because of my future. Can you help me?
+I feel overwhelmed because of my grades. Can you help me? Please be direct.
+Please explain why diffusion models matters? Please make it easy to understand.
+How do I feel less anxious?
+I have been feeling worried about my friendships lately. What should I do? Please keep it simple.
+Do you have advice on how to stop procrastinating without feeling overwhelmed? Please be direct.
+Can you help me understand Bayes' theorem in simple terms? Please keep it short.
+I am anxious about my confidence. Do you have any advice? Please make it easy to understand.
+I am worried about my confidence. Do you have any advice?
+I am worried about my exam. Do you have any advice? Please be direct.
+How can I stop procrastinating when I already feel frustrated? Please make it easy to understand.
+Can you summarize transformers in simple terms? Please be supportive.
+I feel like I keep failing. Can you help me think clearly? Please be supportive.
+I feel anxious because of my grades. Can you help me? Please give practical advice.
+I have been feeling sad about my time management lately. What should I do? Please make it easy to understand.
+I feel hopeless because of my friendships. Can you help me? Please keep it short.
+What do you think about discipline? Please keep it simple.
+How do I feel less anxious without feeling overwhelmed?
+I feel anxious because of my habits. Can you help me? Please be direct.
+I feel sad because of my confidence. Can you help me? Please give practical advice.
+Can you describe why transformers matters? Please keep it simple.
+I have been feeling upset about my confidence lately. What should I do? Please make it easy to understand.
+What is the best way to build better habits more consistently?
+How can I stay focused when I already feel exhausted? Please give practical advice.
+I am sad about my social life. Do you have any advice? Please be supportive.
+Can you describe gradient descent like I am a beginner? Please keep it simple.
+I have been feeling frustrated about my habits lately. What should I do? Please make it easy to understand.
+I have been feeling overwhelmed about my workload lately. What should I do? Please give practical advice.
+I feel exhausted because of my workload. Can you help me? Please be supportive.
+Can you describe regularization like I am a beginner? Please make it easy to understand.
+I am burned out about my friendships. Do you have any advice? Please make it easy to understand.
+I have been feeling afraid about my confidence lately. What should I do? Please be direct.
+I feel hopeless, and I still need to make a daily plan. What should I do? Please be direct.
+What is the best way to be more productive without feeling overwhelmed? Please be supportive.
+I have been feeling overwhelmed about my social life lately. What should I do?
+I am worried about my workload. Do you have any advice? Please be supportive.
+How do I stay focused without feeling overwhelmed? Please keep it short.
+I have been feeling exhausted about my exam lately. What should I do? Please keep it short.
+I feel stressed, and I still need to prepare for exams. What should I do? Please give practical advice.
+I feel upset, and I still need to build better habits. What should I do? Please be supportive.
+Can you help me understand neural networks in simple terms? Please give practical advice.
+I am upset about my future. Do you have any advice?
+What should I do to study more effectively without feeling overwhelmed? Please keep it simple.
+I am lonely about my habits. Do you have any advice? Please keep it simple.
+How can I build better habits without feeling overwhelmed? Please make it easy to understand.
+Can you describe why regularization matters? Please keep it short.
+What is the best way to study more effectively?
+What should I do if I feel nervous about asking for help?
+I feel unmotivated. What should I do? Please be direct.
+Do you have advice on how to stay focused more consistently? Please keep it simple.
+How do I make a daily plan without feeling overwhelmed? Please keep it short.
+I have been feeling exhausted about my motivation lately. What should I do?
+Can you explain transformers in simple terms? Please make it easy to understand.
+I feel frustrated, and I still need to build better habits. What should I do? Please give practical advice.
+How can I prepare for exams when I already feel sad?
+What is the best way to make a daily plan more consistently? Please make it easy to understand.
+Can you say something supportive? I have been under a lot of pressure lately. Please make it easy to understand.
+I am hopeless about my habits. Do you have any advice? Please keep it short.
+Can you explain overfitting in simple terms? Please keep it simple.
+Can you explain Bayes' theorem in simple terms? Please make it easy to understand.
+Why do I get anxious before important things? Please keep it short.
+I have been struggling with my friendships these days. Can you help? Please be direct.
+What should I do to be more productive? Please be direct.
+What do you think about stress? Please keep it short.
+I have been feeling overwhelmed about my workload lately. What should I do? Please keep it simple.
+Can you say something supportive? Please make it easy to understand.
+Can you explain overfitting like I am a beginner? Please give practical advice.
+Can you help me understand diffusion models like I am a beginner? Please make it easy to understand.
+I am hopeless about my friendships. Do you have any advice? Please keep it short.
+Tell me about diffusion models in simple terms? Please make it easy to understand.
+How can I stop procrastinating when I already feel worried?
+How do I manage stress more consistently? Please keep it short.
+I have been feeling worried about my exam lately. What should I do?
+How do I stay focused without feeling overwhelmed? Please make it easy to understand.
+I am stressed about my grades. Do you have any advice? Please keep it short.
+Why do I always lose motivation so quickly? Please give practical advice.
+I have been feeling upset about my confidence lately. What should I do? Please keep it simple.
+I am exhausted about my time management. Do you have any advice? Please be supportive.
+Can you explain why diffusion models matters?
+What should I do if I feel nervous about speaking in class? Please be direct.
+I feel overwhelmed, and I still need to stop procrastinating. What should I do? Please be direct.
+I failed my exam and feel terrible. Can you help me figure out what to do next? Please make it easy to understand.
+I have been feeling sad about my future lately. What should I do? Please keep it short.
+I feel burned out because of my motivation. Can you help me? Please make it easy to understand.
+I am afraid about my grades. Do you have any advice? Please be supportive.
+I feel exhausted, and I still need to stop procrastinating. What should I do? Please be direct.
+My grades dropped and I do not know what to do next. Can you help me figure out what to do next? Please be direct.
+How can I prepare for exams when I already feel upset? Please give practical advice.
+Can you help me understand overfitting like I am a beginner? Please give practical advice.
+Why is stress important? Please be direct.
+I feel worried because of my time management. Can you help me? Please make it easy to understand.
+I am anxious about my focus. Do you have any advice? Please make it easy to understand.
+I have been feeling afraid about my workload lately. What should I do?
+I feel upset because of my habits. Can you help me?
+I have been feeling worried about my social life lately. What should I do? Please make it easy to understand.
+I am worried about my workload. Do you have any advice? Please keep it simple.
+I need a little reassurance right now. I have been under a lot of pressure lately. Please be supportive.
+How can I stay focused more consistently? Please keep it short.
+I am frustrated about my motivation. Do you have any advice? Please give practical advice.
+I feel lonely because of my focus. Can you help me? Please be direct.
+I have been feeling frustrated about my study schedule lately. What should I do? Please keep it short.
+I have been feeling worried about my study schedule lately. What should I do? Please keep it short.
+Can you give me advice about talking to new people? Please be direct.
+What should I do to balance school and rest more consistently? Please keep it simple.
+I feel tired all the time.
+Can you explain why large language models matters? Please keep it simple.
+I feel hopeless because of my focus. Can you help me? Please keep it simple.
+I am lonely about my habits. Do you have any advice? Please make it easy to understand.
+I have been feeling sad about my time management lately. What should I do? Please keep it simple.
+I feel overwhelmed because of my motivation. Can you help me? Please make it easy to understand.
+I am overwhelmed about my confidence. Do you have any advice?
+Can you describe why Bayes' theorem matters? Please keep it short.
+I feel exhausted, and I still need to stop procrastinating. What should I do?
+Do you have advice on how to make a daily plan more consistently? Please give practical advice.
+Tell me about gradient descent like I am a beginner? Please make it easy to understand.
+I am overwhelmed about my friendships. Do you have any advice? Please make it easy to understand.
+I failed my exam and feel terrible. Please keep it short.
+Do you have advice on how to stop procrastinating? Please be supportive.
+I am stressed about my social life. Do you have any advice? Please keep it short.
+I feel exhausted because of my exam. Can you help me? Please make it easy to understand.
+Can you describe Bayes' theorem in simple terms? Please keep it simple.
+Tell me about why gradient descent matters? Please keep it simple.
+I do not think I am good enough. Please make it easy to understand.
+I have been feeling exhausted about my future lately. What should I do?
+I am overwhelmed about my motivation. Do you have any advice? Please make it easy to understand.
+How can I stay focused when I already feel worried? Please keep it short.
+I studied hard but my exam score was still disappointing. I need advice. Please keep it simple.
+Can we talk about learning? Please be supportive.
+I am hopeless about my workload. Do you have any advice? Please keep it simple.
+I have been feeling frustrated about my focus lately. What should I do? Please be supportive.
+How can I study more effectively when I already feel stressed?
+How can I study more effectively when I already feel frustrated? Please keep it short.
+I feel stuck. What should I do?
+Can you help me understand deep learning like I am a beginner? Please be direct.
+What is the best way to study more effectively without feeling overwhelmed? Please give practical advice.
+I feel lonely, and I still need to prepare for exams. What should I do? Please keep it simple.
+I feel exhausted, and I still need to make a daily plan. What should I do? Please give practical advice.
+Can you describe regularization like I am a beginner? Please be supportive.
+I feel overwhelmed because of my habits. Can you help me? Please make it easy to understand.
+Can you summarize why regularization matters? Please give practical advice.
+I have been feeling anxious about my focus lately. What should I do?
+Please explain large language models in simple terms? Please give practical advice.
+I failed my exam and feel terrible. I need advice. Please make it easy to understand.
+I feel stressed because of my habits. Can you help me? Please be supportive.
+I am hopeless about my friendships. Do you have any advice? Please keep it simple.
+How can I stop procrastinating when I already feel anxious? Please give practical advice.
+I did badly on a test and now I feel discouraged. Please give practical advice.
+I feel afraid, and I still need to stop procrastinating. What should I do? Please keep it short.
+My grades dropped and I do not know what to do next. Can you help me figure out what to do next? Please give practical advice.
+I am worried that I am not capable enough. Please keep it short.
+Tell me about gradient descent like I am a beginner? Please keep it simple.
+Can you summarize gradient descent in simple terms? Please keep it simple.
+Can you give me advice about making friends? Please be supportive.
+I have been feeling lonely about my time management lately. What should I do? Please be supportive.
+What is the best way to make a daily plan more consistently? Please keep it simple.
+I feel like I am wasting time. Can you help me think clearly? Please keep it short.
+I have been feeling burned out about my workload lately. What should I do? Please be direct.
+Can you describe why diffusion models matters? Please give practical advice.
+I have been feeling frustrated about my study schedule lately. What should I do? Please make it easy to understand.
+I am worried about my motivation. Do you have any advice? Please make it easy to understand.
+How can I make a daily plan when I already feel lonely? Please be direct.
+I am stressed about my confidence. Do you have any advice? Please be supportive.
+I feel hopeless, and I still need to build better habits. What should I do? Please keep it simple.
+I feel sad because of my friendships. Can you help me? Please keep it short.
+I am anxious about my friendships. Do you have any advice? Please be supportive.
+I am hopeless about my study schedule. Do you have any advice? Please be supportive.
+Can you help me make a step-by-step plan for this week?
+I am frustrated about my focus. Do you have any advice? Please keep it short.
+I feel lonely because of my time management. Can you help me?
+I feel afraid, and I still need to stay focused. What should I do?
+I feel like I am not smart enough. Can you help me think clearly? Please be direct.
+Do you have advice on how to balance school and rest more consistently? Please keep it short.
+I have been feeling burned out about my social life lately. What should I do? Please keep it simple.
+I have been feeling afraid about my habits lately. What should I do? Please be direct.
+I feel exhausted because of my exam. Can you help me? Please keep it short.
+Please explain why gradient descent matters? Please be direct.
+Can you summarize gradient descent in simple terms?
+I have been feeling anxious about my workload lately. What should I do? Please be direct.
+I feel afraid because of my study schedule. Can you help me? Please make it easy to understand.
+I feel frustrated because of my focus. Can you help me?
+I am stressed about my study schedule. Do you have any advice? Please give practical advice.
+I am lonely about my motivation. Do you have any advice? Please be direct.
+I am overwhelmed about my time management. Do you have any advice?
+I feel afraid because of my future. Can you help me? Please keep it short.
+I feel burned out, and I still need to stay focused. What should I do? Please be supportive.
+I have been feeling overwhelmed about my grades lately. What should I do? Please keep it short.
+I feel sad, and I still need to stop procrastinating. What should I do? Please make it easy to understand.
+Can you summarize neural networks like I am a beginner? Please give practical advice.
+Tell me about regularization in simple terms? Please keep it simple.
+Can you describe why attention mechanisms matters? Please keep it simple.
+I am stressed about my study schedule. Do you have any advice? Please be direct.
+I am stressed about my future. Do you have any advice? Please be supportive.
+I have been struggling with my exam recently. Can you help? Please keep it simple.
+I am sad about my study schedule. Do you have any advice? Please give practical advice.
+I have been struggling with my confidence for the past few weeks. Can you help? Please be supportive.
+I feel worried because of my time management. Can you help me? Please keep it short.
+I have been feeling burned out about my friendships lately. What should I do?
+I feel overwhelmed, and I still need to stop procrastinating. What should I do? Please make it easy to understand.
+Can you summarize why regularization matters? Please keep it short.
+How do I stay focused more consistently? Please make it easy to understand.
+Can you explain gradient descent like I am a beginner? Please keep it simple.
+How can I study more effectively when I already feel afraid? Please make it easy to understand.
+I have been feeling anxious about my habits lately. What should I do? Please be supportive.
+Can you explain why probability matters? Please make it easy to understand.
+I feel upset because of my social life. Can you help me? Please give practical advice.
+I have been feeling stressed about my motivation lately. What should I do? Please be supportive.
+I feel overwhelmed because of my study schedule. Can you help me?
+How do I prepare for exams without feeling overwhelmed? Please give practical advice.
+Tell me about why gradient descent matters? Please make it easy to understand.
+Tell me about why gradient descent matters?
+I feel upset because of my motivation. Can you help me? Please be supportive.
+How can I stay focused when I already feel upset? Please make it easy to understand.
+What is the best way to build better habits more consistently? Please keep it simple.
+I feel lonely because of my study schedule. Can you help me? Please be supportive.
+Can you help me make a better workflow? Please keep it short.
+Tell me about why neural networks matters? Please be supportive.
+I feel exhausted because of my confidence. Can you help me? Please keep it simple.
+I have been feeling frustrated about my time management lately. What should I do?
+I feel sad because of my workload. Can you help me? Please keep it short.
+Can you help me calm down? I have been under a lot of pressure lately. Please give practical advice.
+I have been feeling overwhelmed about my focus lately. What should I do? Please keep it short.
+I have been feeling worried about my friendships lately. What should I do?
+I feel stuck. What should I do? Please keep it simple.
+I have been feeling hopeless about my habits lately. What should I do? Please keep it short.
+Can you explain regularization like I am a beginner? Please be supportive.
+I am lonely about my confidence. Do you have any advice? Please make it easy to understand.
+What should I include in a weekly schedule? Please make it easy to understand.
+I am exhausted about my focus. Do you have any advice? Please keep it simple.
+What should I do to build better habits without feeling overwhelmed? Please keep it simple.
+I feel hopeless, and I still need to prepare for exams. What should I do?
+I have been struggling with my study schedule for the past few weeks. Can you help?
+I am burned out about my workload. Do you have any advice? Please keep it simple.
+Do you have advice on how to feel less anxious more consistently? Please give practical advice.
+How can I prepare for exams when I already feel burned out? Please make it easy to understand.
+I feel afraid because of my workload. Can you help me? Please be supportive.
+I am scared because my exam is coming up soon. Can you help me figure out what to do next? Please give practical advice.
+I have been feeling sad about my confidence lately. What should I do? Please make it easy to understand.
+I feel like I keep failing. What should I do? Please make it easy to understand.
+How can I stop procrastinating when I already feel upset? Please keep it short.
+Can you summarize neural networks like I am a beginner? Please be direct.
+I am sad about my confidence. Do you have any advice? Please give practical advice.
+Can you help me understand gradient descent in simple terms? Please be supportive.
+How do I stop procrastinating more consistently?
+What should I do to manage stress without feeling overwhelmed? Please keep it short.
+What is the best way to be more productive more consistently? Please keep it simple.
+I feel behind compared with everyone else. Can you help me think clearly?
+I am sad about my grades. Do you have any advice? Please be direct.
+Can you help me understand why Bayes' theorem matters? Please make it easy to understand.
+I have been feeling overwhelmed about my focus lately. What should I do? Please be direct.
+How can I balance school and rest without feeling overwhelmed? Please keep it short.
+I have been feeling anxious about my grades lately. What should I do? Please give practical advice.
+I have been feeling lonely about my workload lately. What should I do? Please keep it short.
+I have been feeling upset about my confidence lately. What should I do? Please be supportive.
+I feel afraid, and I still need to stop procrastinating. What should I do? Please make it easy to understand.
+I feel stressed because of my workload. Can you help me? Please be supportive.
+I feel upset because of my time management. Can you help me? Please be direct.
+What should I do to prepare for exams more consistently? Please keep it simple.
+How can I get better at responding to criticism?
+I feel stressed, and I still need to build better habits. What should I do? Please be direct.
+Tell me about Bayes' theorem in simple terms? Please be direct.
+Can you help me understand gradient descent like I am a beginner? Please be direct.
+I have been feeling upset about my future lately. What should I do? Please give practical advice.
+I am sad about my habits. Do you have any advice? Please make it easy to understand.
+Please explain attention mechanisms in simple terms? Please make it easy to understand.
+Can you describe why gradient descent matters? Please be direct.
+How can I stop procrastinating when I already feel hopeless?
+How can I get better at talking to new people? Please keep it short.
+What should I do if I feel nervous about joining a group conversation?
+I have been feeling sad about my confidence lately. What should I do? Please be supportive.
+I feel afraid because of my habits. Can you help me?
+I feel stressed, and I still need to make a daily plan. What should I do?
+How do I create a realistic plan for tomorrow? Please be direct.
+Can you explain why regularization matters? Please give practical advice.
+I am exhausted about my exam. Do you have any advice? Please give practical advice.
+I am stressed about my habits. Do you have any advice? Please be direct.
+I feel hopeless because of my time management. Can you help me? Please keep it short.
+I have been feeling hopeless about my workload lately. What should I do? Please be supportive.
+Can you summarize why deep learning matters? Please keep it simple.
+I have been feeling overwhelmed about my social life lately. What should I do? Please be direct.
+I feel unmotivated. Please make it easy to understand.
+I feel afraid, and I still need to make a daily plan. What should I do? Please give practical advice.
+How can I make a daily plan when I already feel burned out? Please keep it simple.
+I feel sad because of my study schedule. Can you help me?
+How do I manage stress? Please be direct.
+I have been feeling lonely about my future lately. What should I do? Please make it easy to understand.
+I feel sad, and I still need to prepare for exams. What should I do? Please make it easy to understand.
+What is the best way to study more effectively without feeling overwhelmed? Please make it easy to understand.
+How can I make a daily plan when I already feel lonely? Please make it easy to understand.
+Tell me about deep learning in simple terms? Please be supportive.
+How do I study more effectively? Please keep it simple.
+Do you have advice on how to build better habits without feeling overwhelmed? Please be supportive.
+I am hopeless about my focus. Do you have any advice? Please make it easy to understand.
+I have been feeling worried about my time management lately. What should I do? Please keep it simple.
+I feel hopeless because of my habits. Can you help me? Please be direct.
+What should I do if I feel nervous about talking to new people? Please give practical advice.
+Please explain deep learning in simple terms? Please be supportive.
+I have been feeling hopeless about my confidence lately. What should I do?
+I feel stressed, and I still need to prepare for exams. What should I do? Please be direct.
+I feel frustrated because of my workload. Can you help me?
+Can we talk about discipline? Please keep it simple.
+I am frustrated about my time management. Do you have any advice? Please be direct.
+Do you have advice on how to make a daily plan more consistently? Please make it easy to understand.
+I am upset about my habits. Do you have any advice? Please be supportive.
+I am worried about my grades. Do you have any advice? Please make it easy to understand.
+How can I stop procrastinating when I already feel anxious? Please make it easy to understand.
+I have been feeling stressed about my social life lately. What should I do? Please be supportive.
+Can you describe transformers like I am a beginner? Please be direct.
+I am hopeless about my exam. Do you have any advice? Please make it easy to understand.
+Can you explain why regularization matters? Please be direct.
+Please explain attention mechanisms like I am a beginner? Please keep it simple.
+How can I study more effectively when I already feel lonely?
+I am upset about my exam. Do you have any advice? Please keep it short.
+Tell me about why probability matters? Please give practical advice.
+Please explain why transformers matters? Please keep it short.
+How can I prepare for exams when I already feel worried? Please be direct.
+What is a healthy way to think about confidence? Please keep it simple.
+How can I stay focused when I already feel sad? Please be direct.
+How can I build better habits when I already feel sad? Please be direct.
+How can I prepare for exams when I already feel stressed? Please be supportive.
+How can I prepare for exams when I already feel anxious? Please be supportive.
+Why is personal growth important?
+What is the best way to balance school and rest? Please keep it short.
+I am stressed about my exam. Do you have any advice? Please give practical advice.
+How can I study more effectively when I already feel hopeless?
+Can you help me understand regularization in simple terms? Please be supportive.
+How can I study more effectively? Please give practical advice.
+How do I create a realistic plan for tomorrow? Please keep it short.
+I feel hopeless because of my workload. Can you help me?
+I am afraid about my time management. Do you have any advice? Please make it easy to understand.
+I feel hopeless because of my grades. Can you help me? Please keep it simple.
+Do you have advice on how to feel less anxious more consistently?
+Why is failure important? Please be direct.
+I have been feeling frustrated about my grades lately. What should I do? Please give practical advice.
+I feel frustrated because of my time management. Can you help me? Please be supportive.
+What do you think about rest?
+I feel frustrated because of my time management. Can you help me? Please give practical advice.
+How can I study more effectively when I already feel exhausted? Please give practical advice.
+I am upset about my exam. Do you have any advice? Please be supportive.
+How can I get better at talking to new people? Please be supportive.
+What should I do to stop procrastinating without feeling overwhelmed? Please give practical advice.
+Do you have advice on how to balance school and rest more consistently? Please keep it simple.
+What do you think about failure?
+How can I prepare for exams when I already feel sad? Please give practical advice.
+I have been feeling sad about my time management lately. What should I do?
+I have been feeling hopeless about my exam lately. What should I do? Please be direct.
+Do you have advice on how to balance school and rest? Please be direct.
+I have been feeling worried about my exam lately. What should I do? Please be supportive.
+I have been feeling overwhelmed about my grades lately. What should I do? Please be supportive.
+What is the best way to feel less anxious? Please keep it simple.
+I feel hopeless because of my study schedule. Can you help me? Please make it easy to understand.
+Can you explain probability like I am a beginner?
+What is a healthy way to think about friendship? Please make it easy to understand.
+I feel overwhelmed because of my time management. Can you help me? Please be supportive.
+I feel frustrated because of my grades. Can you help me? Please give practical advice.
+Tell me about attention mechanisms like I am a beginner?
+How can I study more effectively without feeling overwhelmed? Please be supportive.
+I have been feeling afraid about my time management lately. What should I do?
+I have been feeling worried about my motivation lately. What should I do? Please be supportive.
+I am frustrated about my friendships. Do you have any advice? Please keep it simple.
+I have been feeling lonely about my grades lately. What should I do? Please make it easy to understand.
+I am exhausted about my habits. Do you have any advice? Please be supportive.
+I feel exhausted, and I still need to build better habits. What should I do?
+How can I stop procrastinating when I already feel worried? Please keep it short.
+I feel stressed, and I still need to build better habits. What should I do? Please give practical advice.
+Can you describe why Bayes' theorem matters?
+How can I prepare for exams when I already feel sad? Please keep it simple.
+What is the best way to build better habits more consistently? Please make it easy to understand.
+How can I stay focused when I already feel hopeless? Please keep it short.
+How can I build better habits when I already feel frustrated? Please keep it simple.
+How do I prepare for exams more consistently?
+I feel sad, and I still need to prepare for exams. What should I do? Please be direct.
+How can I prepare for exams? Please make it easy to understand.
+Tell me about overfitting like I am a beginner? Please make it easy to understand.
+How can I make a daily plan when I already feel hopeless? Please keep it short.
+Can you help me understand gradient descent like I am a beginner? Please make it easy to understand.
+Please explain probability like I am a beginner? Please make it easy to understand.
+I have been feeling lonely about my social life lately. What should I do? Please keep it short.
+I am stressed about my habits. Do you have any advice? Please keep it simple.
+Tell me about machine learning like I am a beginner? Please be supportive.
+Why is failure important? Please keep it simple.
+Why is success important? Please keep it simple.
+I am burned out about my future. Do you have any advice? Please give practical advice.
+I feel stressed because of my grades. Can you help me? Please make it easy to understand.
+I do not think I am good enough.
+My grades dropped and I do not know what to do next. Can you help me figure out what to do next? Please make it easy to understand.
+I feel overwhelmed, and I still need to make a daily plan. What should I do? Please make it easy to understand.
+Please explain why large language models matters? Please keep it simple.
+How can I stay focused when I already feel worried? Please keep it simple.
+I have been feeling stressed about my motivation lately. What should I do? Please keep it simple.
+Can you help me understand regularization in simple terms? Please give practical advice.
+I feel upset because of my social life. Can you help me? Please be supportive.
+I am burned out about my grades. Do you have any advice?
+How can I stop procrastinating when I already feel anxious? Please be direct.
+I feel frustrated because of my confidence. Can you help me? Please be direct.
+I have been feeling afraid about my grades lately. What should I do? Please keep it short.
+I have been feeling sad about my study schedule lately. What should I do? Please be direct.
+I feel exhausted because of my time management. Can you help me? Please be direct.
+I feel stressed, and I still need to prepare for exams. What should I do? Please make it easy to understand.
+How do I make a daily plan more consistently? Please give practical advice.
+I have been struggling with my grades this semester. Can you help? Please make it easy to understand.
+I feel worried, and I still need to study more effectively. What should I do? Please give practical advice.
+How can I get better at joining a group conversation?
+How can I stop procrastinating when I already feel upset? Please keep it simple.
+Can you help me calm down? I have been under a lot of pressure lately. Please make it easy to understand.
+I feel sad because of my grades. Can you help me? Please keep it short.
+I feel frustrated because of my workload. Can you help me? Please be supportive.
+I am worried about my motivation. Do you have any advice? Please be direct.
+I feel sad because of my motivation. Can you help me?
+How can I stay focused when I already feel sad? Please make it easy to understand.
+Can you explain why neural networks matters? Please give practical advice.
+How can I balance school and rest more consistently? Please be supportive.
+I am exhausted about my motivation. Do you have any advice? Please keep it simple.
+Can you summarize probability in simple terms? Please keep it simple.
+How can I make a daily plan without feeling overwhelmed?
+I am hopeless about my exam. Do you have any advice? Please keep it short.
+I did badly on a test and now I feel discouraged. Can you help me figure out what to do next? Please be supportive.
+I have been struggling with my friendships lately. Can you help?
+I have been feeling upset about my confidence lately. What should I do? Please give practical advice.
+Can you describe deep learning in simple terms? Please keep it short.
+Can you give me advice about responding to criticism?
+Do you have advice on how to build better habits more consistently? Please be supportive.
+How can I make a daily plan when I already feel overwhelmed? Please make it easy to understand.
+Can you help me understand large language models like I am a beginner?
+I feel afraid because of my grades. Can you help me? Please make it easy to understand.
+I have been feeling burned out about my habits lately. What should I do? Please give practical advice.
+I have been feeling overwhelmed about my exam lately. What should I do? Please keep it short.
+I feel like I am not smart enough. What should I do?
+Can you summarize why probability matters? Please be supportive.
+Please explain diffusion models like I am a beginner? Please be direct.
+Why do I procrastinate even when I care about the task? Please give practical advice.
+I have been feeling worried about my exam lately. What should I do? Please give practical advice.
+I feel upset because of my habits. Can you help me? Please make it easy to understand.
+Can you summarize why Bayes' theorem matters? Please give practical advice.
+How can I stay focused when I already feel lonely? Please make it easy to understand.
+I am burned out about my confidence. Do you have any advice? Please give practical advice.
+I am anxious about my workload. Do you have any advice? Please keep it short.
+Can you help me make a better workflow? Please keep it simple.
+Please explain overfitting like I am a beginner? Please be direct.
+What is the best way to be more productive without feeling overwhelmed? Please be direct.
+Tell me about gradient descent like I am a beginner?
+I have been struggling with my motivation this semester. Can you help?
+Tell me about Bayes' theorem in simple terms? Please keep it simple.
+I feel overwhelmed because of my confidence. Can you help me? Please be supportive.
+How can I make a daily plan?
+I have been feeling hopeless about my social life lately. What should I do? Please give practical advice.
+I have been feeling lonely about my focus lately. What should I do? Please give practical advice.
+Can we talk about discipline? Please give practical advice.
+I am afraid about my workload. Do you have any advice? Please keep it short.
+I have been feeling sad about my habits lately. What should I do? Please be supportive.
+I am burned out about my social life. Do you have any advice? Please give practical advice.
+I have been feeling lonely about my confidence lately. What should I do? Please be supportive.
+I have been struggling with my exam lately. Can you help? Please make it easy to understand.
+I have been struggling with my motivation this semester. Can you help? Please give practical advice.
+I am exhausted about my friendships. Do you have any advice? Please give practical advice.
+How do I stop procrastinating more consistently? Please keep it simple.
+I feel worried, and I still need to stop procrastinating. What should I do? Please make it easy to understand.
+I have been feeling lonely about my time management lately. What should I do? Please keep it simple.
+I feel exhausted because of my confidence. Can you help me? Please be supportive.
+How can I prepare for exams when I already feel anxious?
+What is a healthy way to think about confidence?
+How can I prepare for exams when I already feel afraid?
+I am upset about my motivation. Do you have any advice? Please make it easy to understand.
+Can we talk about confidence? Please be direct.
+What should I include in a realistic plan for tomorrow? Please keep it simple.
+I have been struggling with my friendships this semester. Can you help? Please keep it simple.
+How can I get better at joining a group conversation? Please be supportive.
+I feel burned out, and I still need to prepare for exams. What should I do? Please be supportive.
+I feel exhausted because of my future. Can you help me? Please be direct.
+Please explain overfitting like I am a beginner? Please keep it short.
+How can I manage stress more consistently? Please keep it simple.
+How can I build better habits when I already feel anxious? Please give practical advice.
+I feel exhausted because of my habits. Can you help me?
+I am anxious about my grades. Do you have any advice? Please keep it short.
+How do I create a simple routine? Please be direct.
+I am sad about my confidence. Do you have any advice?
+I am anxious about my focus. Do you have any advice? Please be supportive.
+I feel overwhelmed because of my time management. Can you help me? Please give practical advice.
+I feel upset because of my friendships. Can you help me? Please keep it simple.
+I am worried about my time management. Do you have any advice? Please make it easy to understand.
+I am sad about my confidence. Do you have any advice? Please keep it short.
+Can you describe Bayes' theorem like I am a beginner? Please be direct.
+I am frustrated about my study schedule. Do you have any advice? Please give practical advice.
+Can you summarize probability like I am a beginner? Please be direct.
+What is the best way to be more productive?
+Can you describe why regularization matters? Please give practical advice.
+What do you think about confidence? Please keep it simple.
+How can I stay focused when I already feel overwhelmed?
+I am sad about my friendships. Do you have any advice? Please keep it short.
+Do you have advice on how to stop procrastinating more consistently? Please make it easy to understand.
+I feel burned out because of my social life. Can you help me? Please be direct.
+I studied hard but my exam score was still disappointing.
+I feel like nothing is working. Can you help me think clearly? Please keep it simple.
+How can I prepare for exams without feeling overwhelmed? Please keep it short.
+How can I build better habits when I already feel anxious? Please make it easy to understand.
+I am lonely about my exam. Do you have any advice? Please make it easy to understand.
+I have been feeling worried about my habits lately. What should I do? Please keep it short.
+Tell me about why neural networks matters? Please keep it short.
+Can you describe Bayes' theorem like I am a beginner? Please keep it short.
+Do you have advice on how to prepare for exams without feeling overwhelmed? Please make it easy to understand.
+Can you explain overfitting in simple terms? Please be supportive.
+Tell me about why regularization matters? Please make it easy to understand.
+I have been feeling sad about my motivation lately. What should I do? Please be direct.
+I am frustrated about my habits. Do you have any advice? Please keep it short.
+I have been struggling with my grades lately. Can you help? Please give practical advice.
+Tell me about why large language models matters? Please keep it simple.
+Tell me about why large language models matters? Please be direct.
+Can you summarize transformers in simple terms? Please keep it short.
+What is a healthy way to think about failure? Please make it easy to understand.
+How can I prepare for exams? Please be direct.
+I do not think I am good enough. Can you encourage me? Please give practical advice.
+Can you describe transformers in simple terms? Please keep it simple.
+Why do I get anxious before important things? Please be direct.
+I have been feeling lonely about my time management lately. What should I do? Please keep it short.
+I have been feeling afraid about my future lately. What should I do?
+I am burned out about my friendships. Do you have any advice? Please give practical advice.
+I feel burned out because of my confidence. Can you help me?
+I feel exhausted because of my focus. Can you help me? Please make it easy to understand.
+How can I get better at dealing with awkward silence?
+Can you explain why Bayes' theorem matters? Please keep it simple.
+Why is stress important? Please keep it simple.
+Can you explain probability like I am a beginner? Please make it easy to understand.
+How can I feel less anxious without feeling overwhelmed? Please be direct.
+Do you have advice on how to balance school and rest? Please be supportive.
+Can you help me understand overfitting like I am a beginner? Please be supportive.
+Can we talk about success? Please make it easy to understand.
+I have been feeling exhausted about my grades lately. What should I do? Please make it easy to understand.
+What should I do to stay focused more consistently? Please be supportive.
+I feel lonely because of my habits. Can you help me? Please keep it short.
+Can you summarize diffusion models like I am a beginner? Please be supportive.
+Please explain probability like I am a beginner? Please be direct.
+Tell me about overfitting like I am a beginner? Please keep it short.
+I failed my exam and feel terrible. Please give practical advice.
+I have been feeling hopeless about my workload lately. What should I do?
+Can you summarize why attention mechanisms matters? Please give practical advice.
+My grades dropped and I do not know what to do next. I need advice.
+What should I do to balance school and rest? Please be direct.
+I have been struggling with my time management for the past few weeks. Can you help? Please give practical advice.
+I have been struggling with my time management lately. Can you help? Please be supportive.
+I have been feeling stressed about my friendships lately. What should I do? Please keep it simple.
+I am overwhelmed about my exam. Do you have any advice? Please be supportive.
+I feel stressed, and I still need to make a daily plan. What should I do? Please keep it short.
+Can we talk about learning? Please give practical advice.
+What should I do to study more effectively more consistently? Please make it easy to understand.
+I have been struggling with my grades for the past few weeks. Can you help? Please make it easy to understand.
+I feel afraid, and I still need to study more effectively. What should I do? Please be supportive.
+Can you summarize regularization like I am a beginner? Please be direct.
+I feel tired all the time. Please keep it short.
+How can I build better habits when I already feel overwhelmed? Please keep it short.
+I am overwhelmed about my social life. Do you have any advice? Please make it easy to understand.
+I feel burned out because of my confidence. Can you help me? Please keep it short.
+I have been struggling with my grades lately. Can you help? Please be supportive.
+What is the best way to be more productive? Please give practical advice.
+I feel stressed because of my motivation. Can you help me? Please be supportive.
+I have been feeling upset about my friendships lately. What should I do? Please keep it simple.
+I feel upset because of my habits. Can you help me? Please keep it simple.
+I feel frustrated, and I still need to make a daily plan. What should I do? Please keep it simple.
+I am overwhelmed about my future. Do you have any advice?
+I feel exhausted because of my friendships. Can you help me? Please keep it simple.
+I have been feeling hopeless about my confidence lately. What should I do? Please make it easy to understand.
+I feel anxious, and I still need to study more effectively. What should I do? Please be direct.
+I have been feeling stressed about my friendships lately. What should I do? Please give practical advice.
+Can we talk about stress? Please keep it simple.
+I feel stressed because of my friendships. Can you help me? Please make it easy to understand.
+Can you summarize why diffusion models matters? Please give practical advice.
+I have been feeling afraid about my time management lately. What should I do? Please be supportive.
+Tell me about why deep learning matters? Please keep it simple.
+What do you think about motivation? Please be direct.
+I feel upset because of my friendships. Can you help me? Please make it easy to understand.
+Can you summarize why probability matters? Please give practical advice.
+I am lonely about my workload. Do you have any advice? Please keep it short.
+Do you have advice on how to be more productive more consistently? Please keep it short.
+How can I stop procrastinating when I already feel frustrated? Please give practical advice.
+I am worried about my confidence. Do you have any advice? Please make it easy to understand.
+Do you have advice on how to make a daily plan without feeling overwhelmed?
+How can I build better habits when I already feel worried? Please keep it short.
+I feel upset, and I still need to study more effectively. What should I do? Please give practical advice.
+I am overwhelmed about my exam. Do you have any advice? Please make it easy to understand.
+How can I get better at working in a team? Please be supportive.
+I have been feeling exhausted about my confidence lately. What should I do? Please keep it simple.
+I am stressed about my friendships. Do you have any advice? Please make it easy to understand.
+What should I do to be more productive? Please keep it short.
+I have been struggling with my grades for the past few weeks. Can you help? Please give practical advice.
+I have been feeling exhausted about my grades lately. What should I do? Please be direct.
+I feel frustrated, and I still need to stay focused. What should I do? Please make it easy to understand.
+Can you explain why attention mechanisms matters? Please keep it short.
+I have been feeling frustrated about my workload lately. What should I do? Please make it easy to understand.
+I feel overwhelmed because of my focus. Can you help me? Please keep it short.
+Can you help me understand transformers in simple terms? Please keep it short.
+How can I prepare for exams when I already feel sad? Please make it easy to understand.
+I am burned out about my confidence. Do you have any advice?
+I feel lonely because of my workload. Can you help me? Please keep it simple.
+Can you help me understand large language models in simple terms? Please be supportive.
+I am worried about my grades. Do you have any advice? Please give practical advice.
+What should I do to manage stress without feeling overwhelmed? Please keep it simple.
+I have been feeling afraid about my exam lately. What should I do? Please make it easy to understand.
+Do you have advice on how to manage stress?
+Do you have advice on how to build better habits? Please give practical advice.
+I have been struggling with my time management this semester. Can you help? Please be direct.
+I have been feeling exhausted about my exam lately. What should I do? Please be supportive.
+How can I stop procrastinating when I already feel lonely? Please be direct.
+I feel tired all the time. Please be supportive.
+I feel worried because of my friendships. Can you help me? Please keep it simple.
+How do I be more productive more consistently? Please keep it simple.
+I have been feeling afraid about my motivation lately. What should I do? Please be supportive.
+Please explain why diffusion models matters? Please be direct.
+I feel afraid because of my time management. Can you help me? Please keep it simple.
+How can I prepare for exams when I already feel worried? Please keep it simple.
+What is the best way to prepare for exams without feeling overwhelmed? Please keep it simple.
+How can I prepare for exams when I already feel hopeless? Please keep it short.
+I am hopeless about my time management. Do you have any advice? Please be supportive.
+I am exhausted about my study schedule. Do you have any advice?
+Tell me about why attention mechanisms matters? Please keep it simple.
+I feel burned out, and I still need to build better habits. What should I do? Please be direct.
+What is the best way to feel less anxious more consistently? Please make it easy to understand.
+I feel lonely, and I still need to make a daily plan. What should I do?
+I feel overwhelmed because of my study schedule. Can you help me? Please keep it short.
+I have been feeling exhausted about my exam lately. What should I do? Please keep it simple.
+I have been feeling upset about my future lately. What should I do?
+Can you explain neural networks like I am a beginner?
+Please explain regularization in simple terms? Please be direct.
+I am afraid about my time management. Do you have any advice? Please keep it simple.
+I feel anxious because of my social life. Can you help me? Please be supportive.
+I feel overwhelmed because of my friendships. Can you help me?
+I am lonely about my grades. Do you have any advice? Please keep it simple.
+I have been feeling stressed about my focus lately. What should I do?
+How do I stay focused? Please give practical advice.
+Do you have advice on how to prepare for exams? Please keep it short.
+Tell me about why transformers matters? Please keep it simple.
+Can you help me understand attention mechanisms in simple terms?
+I feel anxious, and I still need to make a daily plan. What should I do? Please keep it short.
+I feel stressed because of my social life. Can you help me?
+I have been feeling anxious about my confidence lately. What should I do? Please be direct.
+I have been struggling with my study schedule this semester. Can you help?
+I am overwhelmed about my habits. Do you have any advice? Please keep it short.
+Can you describe why deep learning matters? Please make it easy to understand.
+I am sad about my focus. Do you have any advice? Please keep it short.
+I feel worried, and I still need to prepare for exams. What should I do? Please keep it simple.
+I feel upset because of my confidence. Can you help me? Please keep it short.
+How can I make a daily plan when I already feel worried? Please keep it simple.
+Can you describe overfitting like I am a beginner? Please be direct.
+I have been feeling lonely about my focus lately. What should I do?
+I have been struggling with my time management for the past few weeks. Can you help? Please be supportive.
+I feel stressed because of my motivation. Can you help me? Please be direct.
+I feel upset, and I still need to stop procrastinating. What should I do? Please keep it simple.
+How can I make a daily plan when I already feel worried?
+Can you explain diffusion models in simple terms? Please keep it short.
+How can I build better habits when I already feel hopeless? Please be supportive.
+I feel like I am falling behind. What should I do? Please give practical advice.
+What should I do to be more productive more consistently? Please keep it simple.
+I am lonely about my time management. Do you have any advice? Please keep it short.
+Can we talk about motivation? Please be direct.
+I am hopeless about my time management. Do you have any advice? Please make it easy to understand.
+I am lonely about my focus. Do you have any advice?
+I failed my exam and feel terrible. I need advice. Please be direct.
+Can you help me understand attention mechanisms like I am a beginner? Please make it easy to understand.
+I have been feeling sad about my motivation lately. What should I do? Please keep it short.
+I feel burned out because of my future. Can you help me? Please be supportive.
+I am frustrated about my confidence. Do you have any advice? Please be direct.
+Can you help me calm down? I do not feel very confident right now. Please be supportive.
+I feel afraid, and I still need to make a daily plan. What should I do? Please be direct.
+I am frustrated about my focus. Do you have any advice? Please give practical advice.
+I have been feeling anxious about my exam lately. What should I do? Please keep it short.
+I have been struggling with my exam recently. Can you help? Please be supportive.
+I am afraid about my study schedule. Do you have any advice? Please keep it short.
+What should I do to study more effectively without feeling overwhelmed? Please make it easy to understand.
+I have been feeling sad about my grades lately. What should I do? Please give practical advice.
+What do you think about failure? Please keep it short.
+Can you help me understand large language models in simple terms? Please keep it short.
+Can you summarize why attention mechanisms matters? Please keep it short.
+Can you describe probability in simple terms? Please give practical advice.
+I feel like I keep failing. Please keep it simple.
+I am upset about my time management. Do you have any advice? Please be supportive.
+Why is it so hard for me to stay consistent? Please keep it simple.
+I have been feeling overwhelmed about my study schedule lately. What should I do? Please keep it short.
+I feel like I am wasting time. Can you help me think clearly? Please be supportive.
+I am anxious about my grades. Do you have any advice? Please be supportive.
+I do not think I am good enough. What should I do? Please keep it short.
+Can you describe transformers in simple terms? Please be direct.
+Please explain machine learning in simple terms? Please give practical advice.
+I am sad about my social life. Do you have any advice? Please make it easy to understand.
+How can I get better at working in a team? Please keep it simple.
+I feel frustrated, and I still need to build better habits. What should I do?
+I failed my exam and feel terrible. Please make it easy to understand.
+I feel sad, and I still need to make a daily plan. What should I do? Please give practical advice.
+How can I build better habits when I already feel frustrated? Please be supportive.
+I am scared because my exam is coming up soon. Can you help me figure out what to do next? Please be supportive.
+What do you think about personal growth? Please give practical advice.
+I am frustrated about my social life. Do you have any advice? Please keep it short.
+I feel anxious because of my future. Can you help me?
+I am hopeless about my grades. Do you have any advice? Please be direct.
+I have been feeling upset about my exam lately. What should I do? Please be direct.
+I feel frustrated because of my focus. Can you help me? Please make it easy to understand.
+I feel frustrated because of my time management. Can you help me? Please make it easy to understand.
+I am sad about my workload. Do you have any advice? Please be direct.
+Can you summarize probability in simple terms? Please make it easy to understand.
+How can I stop procrastinating? Please be supportive.
+I have been struggling with my friendships these days. Can you help?
+What is the best way to prepare for exams more consistently? Please keep it short.
+I am afraid about my workload. Do you have any advice? Please be supportive.
+Can you help me understand regularization in simple terms? Please make it easy to understand.
+I feel worried because of my workload. Can you help me? Please make it easy to understand.
+I feel anxious because of my motivation. Can you help me? Please make it easy to understand.
+I am sad about my future. Do you have any advice? Please be supportive.
+How can I study more effectively when I already feel stressed? Please make it easy to understand.
+I feel frustrated because of my workload. Can you help me? Please give practical advice.
+I feel burned out, and I still need to stay focused. What should I do? Please keep it simple.
+Please explain why attention mechanisms matters? Please give practical advice.
+What do you think about friendship? Please keep it simple.
+I feel frustrated because of my future. Can you help me? Please give practical advice.
+Can you summarize diffusion models in simple terms? Please give practical advice.
+Can you describe why deep learning matters? Please be supportive.
+How can I make a daily plan when I already feel anxious? Please keep it simple.
+I am lonely about my exam. Do you have any advice? Please keep it simple.
+Can you describe neural networks in simple terms? Please make it easy to understand.
+What is a healthy way to think about stress? Please make it easy to understand.
+Can you encourage me a little? I have been under a lot of pressure lately. Please make it easy to understand.
+Can you help me make a better workflow?
+I feel frustrated because of my habits. Can you help me? Please keep it simple.
+I feel exhausted, and I still need to study more effectively. What should I do?
+I feel worried, and I still need to make a daily plan. What should I do? Please give practical advice.
+I have been feeling anxious about my time management lately. What should I do? Please keep it short.
+I have been feeling frustrated about my exam lately. What should I do? Please be direct.
+I am exhausted about my social life. Do you have any advice? Please keep it short.
+How can I prepare for exams when I already feel burned out? Please be supportive.
+I have been struggling with my social life recently. Can you help? Please keep it simple.
+Can you explain why Bayes' theorem matters?
+I feel frustrated because of my confidence. Can you help me?
+Can you describe large language models in simple terms? Please give practical advice.
+Can you help me understand overfitting like I am a beginner? Please make it easy to understand.
+I have been feeling lonely about my motivation lately. What should I do? Please keep it short.
+I am frustrated about my social life. Do you have any advice?
+How can I stop procrastinating when I already feel exhausted? Please be supportive.
+I need a little reassurance right now. I do not feel very confident right now. Please give practical advice.
+I need a little reassurance right now. Please be direct.
+I am afraid about my friendships. Do you have any advice? Please keep it simple.
+Can you describe why neural networks matters?
+I am worried about my friendships. Do you have any advice? Please be direct.
+Can you describe why machine learning matters? Please keep it simple.
+I have been feeling worried about my friendships lately. What should I do? Please make it easy to understand.
+Can you describe gradient descent like I am a beginner? Please be direct.
+Can you summarize large language models in simple terms? Please be supportive.
+I feel worried, and I still need to study more effectively. What should I do? Please be direct.
+Can you summarize overfitting like I am a beginner? Please make it easy to understand.
+What should I do to study more effectively? Please be direct.
+I feel stressed because of my future. Can you help me? Please make it easy to understand.
+Can you summarize Bayes' theorem in simple terms? Please make it easy to understand.
+Can you help me understand deep learning in simple terms? Please keep it short.
+I am lonely about my study schedule. Do you have any advice? Please be supportive.
+I am exhausted about my exam. Do you have any advice? Please keep it short.
+I am burned out about my confidence. Do you have any advice? Please make it easy to understand.
+I feel worried because of my confidence. Can you help me? Please be direct.
+I have been feeling exhausted about my confidence lately. What should I do? Please make it easy to understand.
+Can you describe why machine learning matters? Please keep it short.
+I feel exhausted because of my grades. Can you help me? Please make it easy to understand.
+How do I stay focused more consistently? Please be supportive.
+Can you describe gradient descent like I am a beginner? Please be supportive.
+I feel stressed because of my friendships. Can you help me? Please keep it simple.
+I feel frustrated because of my exam. Can you help me?
+What should I include in a simple routine? Please keep it short.
+I am sad about my exam. Do you have any advice?
+What do you think about success? Please keep it simple.
+What should I do to build better habits without feeling overwhelmed? Please give practical advice.
+How can I make a daily plan more consistently? Please be direct.
+Can you explain diffusion models like I am a beginner? Please be supportive.
+I am exhausted about my grades. Do you have any advice? Please make it easy to understand.
+I am overwhelmed about my confidence. Do you have any advice? Please be supportive.
+How do I be more productive without feeling overwhelmed? Please keep it short.
+I am sad about my exam. Do you have any advice? Please give practical advice.
+I have been feeling anxious about my confidence lately. What should I do? Please give practical advice.
+I feel overwhelmed because of my habits. Can you help me? Please give practical advice.
+I am afraid about my grades. Do you have any advice?
+I am overwhelmed about my focus. Do you have any advice? Please be supportive.
+How can I make a daily plan when I already feel worried? Please be direct.
+Can you explain probability like I am a beginner? Please keep it short.
+I have been feeling upset about my time management lately. What should I do? Please make it easy to understand.
+I feel frustrated because of my friendships. Can you help me? Please give practical advice.
+I am anxious about my motivation. Do you have any advice? Please be supportive.
+I feel worried because of my time management. Can you help me? Please give practical advice.
+I feel hopeless because of my study schedule. Can you help me? Please keep it short.
+I am afraid about my grades. Do you have any advice? Please keep it short.
+I have been feeling frustrated about my habits lately. What should I do? Please be supportive.
+Can you describe large language models in simple terms? Please make it easy to understand.
+How can I study more effectively when I already feel burned out? Please give practical advice.
+Can you summarize neural networks in simple terms? Please be supportive.
+I feel anxious because of my confidence. Can you help me? Please keep it short.
+I am afraid about my focus. Do you have any advice? Please make it easy to understand.
+I have been struggling with my time management for the past few weeks. Can you help?
+I have been feeling overwhelmed about my time management lately. What should I do? Please give practical advice.
+I have been feeling worried about my workload lately. What should I do? Please be supportive.
+Can you describe why probability matters?
+What is a healthy way to think about stress? Please give practical advice.
+I am sad about my workload. Do you have any advice? Please keep it simple.
+I feel afraid because of my friendships. Can you help me? Please make it easy to understand.
+I feel hopeless, and I still need to stop procrastinating. What should I do? Please keep it simple.
+Tell me about regularization like I am a beginner? Please keep it simple.
+I am burned out about my grades. Do you have any advice? Please be direct.
+Can you describe why overfitting matters? Please give practical advice.
+I am hopeless about my study schedule. Do you have any advice? Please give practical advice.
+I have been struggling with my grades lately. Can you help? Please keep it short.
+Do you have advice on how to be more productive without feeling overwhelmed? Please keep it short.
+Can you explain why machine learning matters? Please make it easy to understand.
+How can I stay focused when I already feel frustrated? Please keep it simple.
+I feel hopeless because of my social life. Can you help me?
+I have been feeling upset about my social life lately. What should I do?
+What is the best way to stay focused? Please be direct.
+I have been feeling afraid about my grades lately. What should I do?
+I am worried about my study schedule. Do you have any advice?
+I feel burned out because of my focus. Can you help me? Please be supportive.
+What is the best way to prepare for exams more consistently? Please keep it simple.
+How can I stay focused when I already feel upset? Please be supportive.
+I feel afraid, and I still need to prepare for exams. What should I do?
+What should I do if I feel nervous about talking to new people? Please keep it simple.
+What should I do to feel less anxious without feeling overwhelmed? Please be direct.
+I have been feeling burned out about my focus lately. What should I do? Please keep it short.
+I am worried about my grades. Do you have any advice? Please keep it simple.
+I feel worried because of my exam. Can you help me?
+Do you have advice on how to stay focused? Please keep it short.
+What should I do to make a daily plan? Please make it easy to understand.
+Do you have advice on how to stay focused without feeling overwhelmed? Please be direct.
+Can you summarize why neural networks matters? Please keep it short.
+I feel exhausted because of my grades. Can you help me? Please be supportive.
+I am anxious about my habits. Do you have any advice? Please be direct.
+I am worried about my focus. Do you have any advice? Please make it easy to understand.
+I feel sad because of my motivation. Can you help me? Please keep it simple.
+I feel burned out, and I still need to stay focused. What should I do? Please give practical advice.
+I feel stressed because of my time management. Can you help me? Please be supportive.
+How can I stay focused when I already feel overwhelmed? Please make it easy to understand.
+I have been feeling exhausted about my study schedule lately. What should I do?
+Can you explain attention mechanisms in simple terms?
+Can you summarize large language models like I am a beginner? Please give practical advice.
+How can I build better habits more consistently? Please give practical advice.
+I feel frustrated because of my confidence. Can you help me? Please give practical advice.
+I feel worried, and I still need to build better habits. What should I do? Please keep it simple.
+I feel stressed, and I still need to build better habits. What should I do?
+How can I study more effectively when I already feel worried? Please make it easy to understand.
+Can you explain diffusion models like I am a beginner? Please keep it short.
+I have been feeling hopeless about my grades lately. What should I do? Please make it easy to understand.
+I have been feeling overwhelmed about my study schedule lately. What should I do?
+How can I make a daily plan when I already feel overwhelmed? Please give practical advice.
+How can I stay focused when I already feel burned out? Please make it easy to understand.
+I feel frustrated because of my grades. Can you help me? Please keep it simple.
+What is the best way to be more productive without feeling overwhelmed? Please give practical advice.
+How can I get better at working in a team? Please be direct.
+I feel sad, and I still need to make a daily plan. What should I do? Please be direct.
+Why do I compare myself to other people so much? Please be supportive.
+What is the best way to manage stress more consistently? Please make it easy to understand.
+I feel like I am not smart enough. Please be supportive.
+I am hopeless about my social life. Do you have any advice? Please give practical advice.
+Can you summarize deep learning in simple terms?
+Do you have advice on how to stay focused? Please make it easy to understand.
+How do I make a daily plan without feeling overwhelmed?
+I have been feeling hopeless about my grades lately. What should I do? Please be direct.
+Do you have advice on how to prepare for exams? Please make it easy to understand.
+I have been feeling sad about my friendships lately. What should I do? Please give practical advice.
+I have been feeling sad about my future lately. What should I do? Please be supportive.
+How can I make a daily plan when I already feel overwhelmed?
+I feel burned out because of my workload. Can you help me? Please give practical advice.
+I have been feeling stressed about my time management lately. What should I do? Please keep it short.
+What is the best way to balance school and rest more consistently? Please make it easy to understand.
+What is the best way to make a daily plan without feeling overwhelmed? Please keep it short.
+Can you describe probability like I am a beginner? Please keep it short.
+I feel worried, and I still need to prepare for exams. What should I do? Please be direct.
+I feel afraid because of my exam. Can you help me? Please give practical advice.
+I feel anxious because of my exam. Can you help me? Please give practical advice.
+I have been struggling with my motivation these days. Can you help?
+I studied hard but my exam score was still disappointing. Can you help me figure out what to do next?
+I have been struggling with my motivation this semester. Can you help? Please make it easy to understand.
+I have been feeling stressed about my exam lately. What should I do? Please give practical advice.
+Can you describe gradient descent in simple terms? Please keep it short.
+How can I stay focused when I already feel afraid? Please be direct.
+I feel like I am not smart enough. What should I do? Please keep it simple.
+I feel exhausted, and I still need to make a daily plan. What should I do? Please be direct.
+What should I do if I feel nervous about talking to new people? Please keep it short.
+Tell me about why large language models matters? Please be supportive.
+I am upset about my study schedule. Do you have any advice? Please be direct.
+Can you describe transformers in simple terms? Please give practical advice.
+What should I do to feel less anxious without feeling overwhelmed? Please be supportive.
+I feel anxious because of my focus. Can you help me? Please keep it simple.
+Can you help me understand overfitting in simple terms? Please keep it short.
+I have been feeling afraid about my time management lately. What should I do? Please make it easy to understand.
+I feel overwhelmed because of my social life. Can you help me? Please keep it simple.
+Can you explain transformers like I am a beginner? Please keep it short.
+Do you have advice on how to stay focused without feeling overwhelmed?
+I have been feeling hopeless about my social life lately. What should I do?
+I have been feeling upset about my focus lately. What should I do?
+I have been feeling anxious about my study schedule lately. What should I do? Please keep it simple.
+I am hopeless about my habits. Do you have any advice? Please give practical advice.
+I feel sad, and I still need to build better habits. What should I do? Please keep it short.
+I am lonely about my motivation. Do you have any advice?
+I feel hopeless, and I still need to study more effectively. What should I do? Please keep it simple.
+I have been struggling with my social life for the past few weeks. Can you help? Please keep it short.
+I have been feeling hopeless about my focus lately. What should I do? Please make it easy to understand.
+Can you help me understand Bayes' theorem like I am a beginner? Please be direct.
+I feel stressed, and I still need to build better habits. What should I do? Please be supportive.
+I am sad about my social life. Do you have any advice? Please keep it simple.
+I feel burned out because of my exam. Can you help me? Please make it easy to understand.
+I am afraid about my habits. Do you have any advice? Please be direct.
+I have been feeling burned out about my focus lately. What should I do?
+What should I do to stop procrastinating? Please be supportive.
+I feel exhausted because of my future. Can you help me? Please make it easy to understand.
+How can I build better habits when I already feel frustrated? Please make it easy to understand.
+How can I stay focused without feeling overwhelmed? Please give practical advice.
+I feel sad, and I still need to study more effectively. What should I do? Please be direct.
+I feel hopeless, and I still need to prepare for exams. What should I do? Please keep it short.
+Can you help me understand probability in simple terms? Please make it easy to understand.
+Do you have advice on how to make a daily plan without feeling overwhelmed? Please give practical advice.
+I feel sad, and I still need to build better habits. What should I do? Please give practical advice.
+Can you describe probability like I am a beginner? Please be direct.
+I have been feeling exhausted about my study schedule lately. What should I do? Please give practical advice.
+I have been feeling frustrated about my friendships lately. What should I do? Please keep it simple.
+How can I make a daily plan? Please be supportive.
+I have been struggling with my grades recently. Can you help? Please be direct.
+I am worried about my friendships. Do you have any advice? Please keep it short.
+My grades dropped and I do not know what to do next. Please make it easy to understand.
+I am worried about my study schedule. Do you have any advice? Please keep it simple.
+I feel overwhelmed because of my social life. Can you help me? Please keep it short.
+What is the best way to feel less anxious?
+Can you help me understand diffusion models in simple terms? Please be supportive.
+Please explain machine learning in simple terms? Please make it easy to understand.
+How can I build better habits when I already feel upset? Please be supportive.
+Please explain why deep learning matters? Please keep it simple.
+Tell me about neural networks in simple terms? Please keep it simple.
+How do I stop procrastinating more consistently? Please make it easy to understand.
+Can you explain neural networks in simple terms? Please give practical advice.
+Can you help me understand why neural networks matters? Please be direct.
+I feel worried because of my future. Can you help me? Please be supportive.
+How do I study more effectively more consistently?
+Can you help me calm down? Please keep it short.
+Please explain gradient descent like I am a beginner?
+I feel worried because of my social life. Can you help me? Please make it easy to understand.
+Tell me about why Bayes' theorem matters? Please give practical advice.
+Can you say something supportive? I do not feel very confident right now.
+Can you describe why attention mechanisms matters?
+How can I stop procrastinating when I already feel worried? Please make it easy to understand.
+How can I study more effectively? Please be direct.
+Can you help me understand machine learning in simple terms? Please give practical advice.
+Tell me about deep learning like I am a beginner? Please give practical advice.
+I have been feeling overwhelmed about my time management lately. What should I do? Please make it easy to understand.
+I am sad about my grades. Do you have any advice? Please keep it short.
+I feel anxious because of my future. Can you help me? Please give practical advice.
+What is the best way to balance school and rest more consistently? Please be direct.
+I am afraid about my friendships. Do you have any advice? Please be supportive.
+I feel upset because of my friendships. Can you help me?
+I am starting to doubt myself. What should I do? Please keep it short.
+I feel burned out because of my exam. Can you help me? Please keep it simple.
+I feel behind compared with everyone else. What should I do? Please make it easy to understand.
+I have been feeling hopeless about my motivation lately. What should I do? Please give practical advice.
+I feel frustrated because of my focus. Can you help me? Please be supportive.
+Tell me about why diffusion models matters? Please keep it simple.
+I am overwhelmed about my social life. Do you have any advice? Please give practical advice.
+How can I study more effectively when I already feel worried? Please be direct.
+Can you say something supportive? I do not feel very confident right now. Please be direct.
+I am scared because my exam is coming up soon. I need advice. Please be supportive.
+Do you have advice on how to manage stress more consistently? Please be supportive.
+I feel lonely, and I still need to build better habits. What should I do? Please keep it short.
+I feel afraid because of my social life. Can you help me?
+I am hopeless about my future. Do you have any advice? Please be direct.
+I am sad about my confidence. Do you have any advice? Please make it easy to understand.
+I am stressed about my motivation. Do you have any advice? Please keep it short.
+Can you help me understand attention mechanisms like I am a beginner? Please give practical advice.
+I feel sad because of my future. Can you help me? Please be supportive.
+How do I build better habits without feeling overwhelmed? Please give practical advice.
+I am frustrated about my habits. Do you have any advice? Please be supportive.
+I need a little reassurance right now. I do not feel very confident right now. Please keep it simple.
+How can I build better habits? Please be direct.
+Can you describe attention mechanisms like I am a beginner? Please keep it simple.
+I feel anxious because of my exam. Can you help me? Please be direct.
+How can I feel less anxious more consistently? Please keep it simple.
+I am exhausted about my study schedule. Do you have any advice? Please be direct.
+I feel like I am falling behind. Please give practical advice.
+Can you explain why large language models matters? Please be direct.
+I feel burned out because of my friendships. Can you help me? Please be direct.
+I am hopeless about my confidence. Do you have any advice? Please make it easy to understand.
+I am starting to doubt myself. Can you encourage me?
+I feel lonely because of my grades. Can you help me? Please make it easy to understand.
+I am afraid about my habits. Do you have any advice? Please make it easy to understand.
+I feel exhausted because of my friendships. Can you help me? Please be direct.
+I am frustrated about my friendships. Do you have any advice? Please be supportive.
+Tell me about why probability matters? Please be direct.
+I am exhausted about my focus. Do you have any advice? Please make it easy to understand.
+I do not think I am good enough. Can you encourage me? Please be direct.
+I feel frustrated because of my motivation. Can you help me? Please give practical advice.
+How do I manage stress?
+Can you say something supportive? Please be supportive.
+I am burned out about my grades. Do you have any advice? Please keep it short.
+I have been feeling afraid about my exam lately. What should I do?
+I have been feeling afraid about my friendships lately. What should I do?
+I feel lonely, and I still need to stop procrastinating. What should I do? Please keep it short.
+I am worried that I am not capable enough. Please keep it simple.
+Why do I get anxious before important things? Please keep it simple.
+I feel afraid because of my focus. Can you help me? Please make it easy to understand.
+How can I make a daily plan when I already feel overwhelmed? Please be direct.
+Please explain machine learning like I am a beginner? Please keep it short.
+I am exhausted about my social life. Do you have any advice? Please give practical advice.
+Tell me about why large language models matters?
+How can I make a daily plan when I already feel burned out? Please keep it short.
+How do I build better habits without feeling overwhelmed? Please be supportive.
+I have been struggling with my social life this semester. Can you help? Please give practical advice.
+I feel exhausted because of my motivation. Can you help me? Please keep it simple.
+How can I stop procrastinating when I already feel hopeless? Please make it easy to understand.
+Please explain neural networks like I am a beginner? Please be direct.
+I have been feeling upset about my workload lately. What should I do? Please make it easy to understand.
+I feel anxious, and I still need to stop procrastinating. What should I do?
+Can you explain Bayes' theorem like I am a beginner?
+I have been feeling burned out about my social life lately. What should I do? Please give practical advice.
+Can you summarize Bayes' theorem like I am a beginner? Please keep it simple.
+Do you have advice on how to stop procrastinating? Please give practical advice.
+How do I study more effectively without feeling overwhelmed? Please give practical advice.
+I have been feeling afraid about my focus lately. What should I do? Please be supportive.
+Can you explain why regularization matters?
+Why is discipline important? Please keep it simple.
+I feel afraid because of my grades. Can you help me?
+I feel exhausted because of my workload. Can you help me? Please keep it short.
+How can I prepare for exams when I already feel afraid? Please keep it simple.
+How can I stop procrastinating more consistently? Please be supportive.
+I feel overwhelmed because of my confidence. Can you help me?
+How can I study more effectively when I already feel burned out?
+Can you help me understand gradient descent like I am a beginner? Please keep it short.
+I feel burned out because of my confidence. Can you help me? Please make it easy to understand.
+Please explain why neural networks matters? Please give practical advice.
+I am upset about my focus. Do you have any advice? Please be direct.
+I feel afraid, and I still need to prepare for exams. What should I do? Please keep it simple.
+Tell me about Bayes' theorem like I am a beginner? Please make it easy to understand.
+Can you explain why diffusion models matters? Please keep it short.
+How can I study more effectively when I already feel anxious? Please be supportive.
+Can you explain Bayes' theorem like I am a beginner? Please make it easy to understand.
+I have been feeling stressed about my friendships lately. What should I do? Please keep it short.
+Can you comfort me? I have been under a lot of pressure lately. Please give practical advice.
+Can you say something supportive? Please be direct.
+Can you describe why regularization matters? Please make it easy to understand.
+What do you think about motivation? Please be supportive.
+I feel worried, and I still need to build better habits. What should I do? Please make it easy to understand.
+I feel burned out because of my grades. Can you help me? Please be supportive.
+I feel upset because of my workload. Can you help me? Please be supportive.
+Can you explain why large language models matters?
+I feel stressed because of my workload. Can you help me? Please give practical advice.
+I am lonely about my confidence. Do you have any advice? Please keep it simple.
+Can you summarize regularization like I am a beginner? Please make it easy to understand.
+Can you give me advice about dealing with awkward silence? Please make it easy to understand.
+I have been feeling lonely about my social life lately. What should I do? Please give practical advice.
+Tell me about overfitting in simple terms? Please keep it short.
+How can I prepare for exams when I already feel hopeless? Please be supportive.
+I feel upset because of my study schedule. Can you help me? Please give practical advice.
+I have been feeling lonely about my workload lately. What should I do? Please be direct.
+I am sad about my focus. Do you have any advice? Please keep it simple.
+I feel overwhelmed because of my workload. Can you help me? Please keep it short.
+Can you give me advice about working in a team? Please make it easy to understand.
+I have been feeling frustrated about my study schedule lately. What should I do? Please be direct.
+How can I manage stress without feeling overwhelmed? Please make it easy to understand.
+Can you summarize attention mechanisms like I am a beginner? Please be direct.
+What do you think about motivation? Please give practical advice.
+I feel hopeless because of my motivation. Can you help me? Please be supportive.
+I feel hopeless because of my time management. Can you help me? Please be direct.
+Can you explain regularization in simple terms? Please give practical advice.
+What is the best way to manage stress? Please make it easy to understand.
+I feel frustrated, and I still need to make a daily plan. What should I do? Please be direct.
+I feel exhausted because of my time management. Can you help me? Please give practical advice.
+Do you have advice on how to stop procrastinating without feeling overwhelmed? Please be supportive.
+What should I do to build better habits? Please be direct.
+Can we talk about friendship? Please be direct.
+I have been feeling sad about my confidence lately. What should I do? Please keep it short.
+I am frustrated about my grades. Do you have any advice? Please be direct.
+Please explain gradient descent like I am a beginner? Please give practical advice.
+I am exhausted about my social life. Do you have any advice? Please keep it simple.
+Do you have advice on how to be more productive without feeling overwhelmed? Please be direct.
+I am overwhelmed about my study schedule. Do you have any advice? Please be direct.
+Tell me about diffusion models in simple terms? Please be direct.
+I feel like I keep failing. Can you help me think clearly? Please make it easy to understand.
+I feel burned out, and I still need to prepare for exams. What should I do? Please make it easy to understand.
+What is the best way to make a daily plan? Please keep it simple.
+I feel burned out because of my future. Can you help me?
+I am overwhelmed about my focus. Do you have any advice? Please give practical advice.
+How can I make a daily plan without feeling overwhelmed? Please keep it short.
+What do you think about personal growth? Please make it easy to understand.
+Can you summarize why machine learning matters? Please keep it short.
+How do I create a study plan? Please keep it simple.
+I feel burned out, and I still need to stay focused. What should I do? Please keep it short.
+How do I be more productive without feeling overwhelmed? Please be direct.
+How can I stay focused when I already feel anxious? Please give practical advice.
+How can I make a daily plan when I already feel lonely? Please be supportive.

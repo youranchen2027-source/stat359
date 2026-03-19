@@ -1,0 +1,150 @@
+{"id":"p001","prompt":"I failed my exam and feel terrible.","category":"emotional_support","reference":""}
+{"id":"p002","prompt":"I feel overwhelmed with everything I have to do.","category":"emotional_support","reference":""}
+{"id":"p003","prompt":"I am really stressed about school lately.","category":"emotional_support","reference":""}
+{"id":"p004","prompt":"I feel exhausted and cannot concentrate anymore.","category":"emotional_support","reference":""}
+{"id":"p005","prompt":"I feel like nothing is going right for me.","category":"emotional_support","reference":""}
+{"id":"p006","prompt":"I studied hard but still failed the test.","category":"emotional_support","reference":""}
+{"id":"p007","prompt":"I feel anxious about my future.","category":"emotional_support","reference":""}
+{"id":"p008","prompt":"I feel lonely and isolated these days.","category":"emotional_support","reference":""}
+{"id":"p009","prompt":"Everything feels overwhelming right now.","category":"emotional_support","reference":""}
+{"id":"p010","prompt":"I am burned out from studying all the time.","category":"emotional_support","reference":""}
+{"id":"p011","prompt":"I keep making mistakes and it frustrates me.","category":"emotional_support","reference":""}
+{"id":"p012","prompt":"I feel emotionally drained lately.","category":"emotional_support","reference":""}
+{"id":"p013","prompt":"I feel like I am under too much pressure.","category":"emotional_support","reference":""}
+{"id":"p014","prompt":"I feel discouraged after my recent results.","category":"emotional_support","reference":""}
+{"id":"p015","prompt":"I cannot stop worrying about my performance.","category":"emotional_support","reference":""}
+{"id":"p016","prompt":"I feel like I am constantly behind everyone else.","category":"emotional_support","reference":""}
+{"id":"p017","prompt":"I feel nervous before every exam.","category":"emotional_support","reference":""}
+{"id":"p018","prompt":"I feel like giving up sometimes.","category":"emotional_support","reference":""}
+{"id":"p019","prompt":"I feel mentally exhausted.","category":"emotional_support","reference":""}
+{"id":"p020","prompt":"I feel like my efforts are pointless.","category":"emotional_support","reference":""}
+{"id":"p021","prompt":"I am struggling to stay positive.","category":"emotional_support","reference":""}
+{"id":"p022","prompt":"I feel like I am losing motivation.","category":"emotional_support","reference":""}
+{"id":"p023","prompt":"I feel overwhelmed by expectations.","category":"emotional_support","reference":""}
+{"id":"p024","prompt":"I feel emotionally stuck.","category":"emotional_support","reference":""}
+{"id":"p025","prompt":"I feel stressed about my responsibilities.","category":"emotional_support","reference":""}
+{"id":"p026","prompt":"I feel like I am not smart enough.","category":"self_doubt","reference":""}
+{"id":"p027","prompt":"I feel like everyone else understands things faster than I do.","category":"self_doubt","reference":""}
+{"id":"p028","prompt":"I doubt my abilities.","category":"self_doubt","reference":""}
+{"id":"p029","prompt":"I feel like I am not good enough.","category":"self_doubt","reference":""}
+{"id":"p030","prompt":"I feel insecure about my progress.","category":"self_doubt","reference":""}
+{"id":"p031","prompt":"I feel like I always fall behind.","category":"self_doubt","reference":""}
+{"id":"p032","prompt":"I think others are much more capable than me.","category":"self_doubt","reference":""}
+{"id":"p033","prompt":"I feel like I keep failing.","category":"self_doubt","reference":""}
+{"id":"p034","prompt":"I doubt whether I belong here.","category":"self_doubt","reference":""}
+{"id":"p035","prompt":"I feel like I am not improving.","category":"self_doubt","reference":""}
+{"id":"p036","prompt":"I feel like I cannot catch up.","category":"self_doubt","reference":""}
+{"id":"p037","prompt":"I feel like I am wasting my time.","category":"self_doubt","reference":""}
+{"id":"p038","prompt":"I question my abilities often.","category":"self_doubt","reference":""}
+{"id":"p039","prompt":"I feel uncertain about my potential.","category":"self_doubt","reference":""}
+{"id":"p040","prompt":"I feel like I disappoint myself.","category":"self_doubt","reference":""}
+{"id":"p041","prompt":"How can I stop procrastinating?","category":"productivity_advice","reference":""}
+{"id":"p042","prompt":"How can I focus better while studying?","category":"productivity_advice","reference":""}
+{"id":"p043","prompt":"How do I improve my study habits?","category":"productivity_advice","reference":""}
+{"id":"p044","prompt":"How can I stay productive every day?","category":"productivity_advice","reference":""}
+{"id":"p045","prompt":"How can I build consistent routines?","category":"productivity_advice","reference":""}
+{"id":"p046","prompt":"How do I reduce distractions while working?","category":"productivity_advice","reference":""}
+{"id":"p047","prompt":"How can I become more disciplined?","category":"productivity_advice","reference":""}
+{"id":"p048","prompt":"What is a good strategy for studying efficiently?","category":"productivity_advice","reference":""}
+{"id":"p049","prompt":"How do I stay motivated long term?","category":"productivity_advice","reference":""}
+{"id":"p050","prompt":"How can I organize my tasks better?","category":"productivity_advice","reference":""}
+{"id":"p051","prompt":"How can I avoid wasting time online?","category":"productivity_advice","reference":""}
+{"id":"p052","prompt":"How do I maintain focus during long tasks?","category":"productivity_advice","reference":""}
+{"id":"p053","prompt":"How do I develop good habits?","category":"productivity_advice","reference":""}
+{"id":"p054","prompt":"How can I reduce procrastination when tasks feel difficult?","category":"productivity_advice","reference":""}
+{"id":"p055","prompt":"What helps people stay productive?","category":"productivity_advice","reference":""}
+{"id":"p056","prompt":"How do I become more organized?","category":"productivity_advice","reference":""}
+{"id":"p057","prompt":"How can I improve my time management?","category":"productivity_advice","reference":""}
+{"id":"p058","prompt":"How can I make better use of my time?","category":"productivity_advice","reference":""}
+{"id":"p059","prompt":"How can I keep working when I feel tired?","category":"productivity_advice","reference":""}
+{"id":"p060","prompt":"How do I build a productive daily routine?","category":"productivity_advice","reference":""}
+{"id":"p061","prompt":"Help me make a study plan for this week.","category":"planning","reference":""}
+{"id":"p062","prompt":"How should I organize my week?","category":"planning","reference":""}
+{"id":"p063","prompt":"How can I plan my tasks for tomorrow?","category":"planning","reference":""}
+{"id":"p064","prompt":"Help me create a simple schedule.","category":"planning","reference":""}
+{"id":"p065","prompt":"What is a good weekly routine for studying?","category":"planning","reference":""}
+{"id":"p066","prompt":"How should I prepare for an exam in five days?","category":"planning","reference":""}
+{"id":"p067","prompt":"Help me organize my study sessions.","category":"planning","reference":""}
+{"id":"p068","prompt":"How should I plan my study breaks?","category":"planning","reference":""}
+{"id":"p069","prompt":"How do I plan my day more effectively?","category":"planning","reference":""}
+{"id":"p070","prompt":"What should I prioritize in a busy schedule?","category":"planning","reference":""}
+{"id":"p071","prompt":"Help me design a simple morning routine.","category":"planning","reference":""}
+{"id":"p072","prompt":"How can I structure my study sessions?","category":"planning","reference":""}
+{"id":"p073","prompt":"What is a good way to plan long tasks?","category":"planning","reference":""}
+{"id":"p074","prompt":"How should I schedule difficult tasks?","category":"planning","reference":""}
+{"id":"p075","prompt":"How do I recover after a very unproductive day?","category":"planning","reference":""}
+{"id":"p076","prompt":"Explain what machine learning is.","category":"explanation","reference":"Machine learning is a method where computers learn patterns from data to make predictions or decisions."}
+{"id":"p077","prompt":"What is a neural network?","category":"explanation","reference":"A neural network is a model inspired by the brain that learns patterns through interconnected layers."}
+{"id":"p078","prompt":"Explain overfitting.","category":"explanation","reference":"Overfitting occurs when a model learns the training data too closely and performs poorly on new data."}
+{"id":"p079","prompt":"What is gradient descent?","category":"explanation","reference":"Gradient descent is an optimization method used to minimize error by adjusting parameters iteratively."}
+{"id":"p080","prompt":"What does regularization mean?","category":"explanation","reference":"Regularization is a technique used to prevent models from overfitting by limiting complexity."}
+{"id":"p081","prompt":"What is a transformer model?","category":"explanation","reference":"A transformer is a neural network architecture that uses attention to process sequences."}
+{"id":"p082","prompt":"Explain probability in simple terms.","category":"explanation","reference":"Probability measures how likely an event is to happen."}
+{"id":"p083","prompt":"What is Bayes' theorem?","category":"explanation","reference":"Bayes' theorem describes how probabilities update when new evidence is observed."}
+{"id":"p084","prompt":"What is attention in machine learning?","category":"explanation","reference":"Attention allows models to focus on relevant parts of the input."}
+{"id":"p085","prompt":"Why is data quality important?","category":"explanation","reference":"Poor data quality leads to unreliable model predictions."}
+{"id":"p086","prompt":"Explain supervised learning.","category":"explanation","reference":"Supervised learning trains models using labeled data."}
+{"id":"p087","prompt":"Explain unsupervised learning.","category":"explanation","reference":"Unsupervised learning finds patterns in unlabeled data."}
+{"id":"p088","prompt":"What is deep learning?","category":"explanation","reference":"Deep learning uses neural networks with multiple layers to model complex patterns."}
+{"id":"p089","prompt":"What is a dataset?","category":"explanation","reference":"A dataset is a collection of data used for analysis or training models."}
+{"id":"p090","prompt":"Explain the concept of training data.","category":"explanation","reference":"Training data is the data used to teach a model how to perform a task."}
+{"id":"p091","prompt":"What is model evaluation?","category":"explanation","reference":"Model evaluation measures how well a model performs on new data."}
+{"id":"p092","prompt":"What is accuracy in machine learning?","category":"explanation","reference":"Accuracy measures the percentage of correct predictions."}
+{"id":"p093","prompt":"What is a parameter in machine learning?","category":"explanation","reference":"A parameter is a value learned by the model during training."}
+{"id":"p094","prompt":"Explain model generalization.","category":"explanation","reference":"Generalization refers to a model's ability to perform well on unseen data."}
+{"id":"p095","prompt":"Why do models overfit?","category":"explanation","reference":"Models overfit when they learn noise instead of general patterns."}
+{"id":"p096","prompt":"What do you think about failure?","category":"casual_chat","reference":""}
+{"id":"p097","prompt":"Why is rest important?","category":"casual_chat","reference":""}
+{"id":"p098","prompt":"What is motivation?","category":"casual_chat","reference":""}
+{"id":"p099","prompt":"What does success mean?","category":"casual_chat","reference":""}
+{"id":"p100","prompt":"What makes learning meaningful?","category":"casual_chat","reference":""}
+{"id":"p101","prompt":"What do you think about discipline?","category":"casual_chat","reference":""}
+{"id":"p102","prompt":"What is a healthy mindset?","category":"casual_chat","reference":""}
+{"id":"p103","prompt":"What does personal growth mean?","category":"casual_chat","reference":""}
+{"id":"p104","prompt":"What makes people resilient?","category":"casual_chat","reference":""}
+{"id":"p105","prompt":"What is the value of patience?","category":"casual_chat","reference":""}
+{"id":"p106","prompt":"What helps people stay calm?","category":"casual_chat","reference":""}
+{"id":"p107","prompt":"Why do people compare themselves to others?","category":"casual_chat","reference":""}
+{"id":"p108","prompt":"What is confidence?","category":"casual_chat","reference":""}
+{"id":"p109","prompt":"Why is learning important?","category":"casual_chat","reference":""}
+{"id":"p110","prompt":"What is the meaning of progress?","category":"casual_chat","reference":""}
+{"id":"p111","prompt":"How can I get better at talking to new people?","category":"social_advice","reference":""}
+{"id":"p112","prompt":"How do I make friends more easily?","category":"social_advice","reference":""}
+{"id":"p113","prompt":"How do I handle criticism?","category":"social_advice","reference":""}
+{"id":"p114","prompt":"What should I say when meeting someone new?","category":"social_advice","reference":""}
+{"id":"p115","prompt":"How can I be more confident socially?","category":"social_advice","reference":""}
+{"id":"p116","prompt":"How do I respond to awkward silence?","category":"social_advice","reference":""}
+{"id":"p117","prompt":"How do I ask for help politely?","category":"social_advice","reference":""}
+{"id":"p118","prompt":"How do I deal with disagreement in conversations?","category":"social_advice","reference":""}
+{"id":"p119","prompt":"How can I improve my communication skills?","category":"social_advice","reference":""}
+{"id":"p120","prompt":"How do I become a better listener?","category":"social_advice","reference":""}
+{"id":"p121","prompt":"What is 15 percent of 200?","category":"simple_accuracy","reference":"30"}
+{"id":"p122","prompt":"What is 9 plus 6?","category":"simple_accuracy","reference":"15"}
+{"id":"p123","prompt":"How many days are in a week?","category":"simple_accuracy","reference":"7"}
+{"id":"p124","prompt":"What is the capital of France?","category":"simple_accuracy","reference":"Paris"}
+{"id":"p125","prompt":"Which is larger: 0.8 or 0.75?","category":"simple_accuracy","reference":"0.8"}
+{"id":"p126","prompt":"What is 12 times 3?","category":"simple_accuracy","reference":"36"}
+{"id":"p127","prompt":"How many months are in a year?","category":"simple_accuracy","reference":"12"}
+{"id":"p128","prompt":"What color is the sky on a clear day?","category":"simple_accuracy","reference":"Blue"}
+{"id":"p129","prompt":"What is 100 divided by 4?","category":"simple_accuracy","reference":"25"}
+{"id":"p130","prompt":"What is the capital of Japan?","category":"simple_accuracy","reference":"Tokyo"}
+{"id":"p131","prompt":"Summarize this idea in one sentence: small improvements repeated consistently can lead to long-term progress.","category":"summarization","reference":"Consistent small improvements can lead to long-term progress."}
+{"id":"p132","prompt":"Summarize this: taking breaks helps people work better over time.","category":"summarization","reference":"Taking breaks improves long-term productivity."}
+{"id":"p133","prompt":"Summarize this: learning requires patience and practice.","category":"summarization","reference":"Learning improves through patience and practice."}
+{"id":"p134","prompt":"Summarize this: mistakes are part of improvement.","category":"summarization","reference":"Mistakes help people improve."}
+{"id":"p135","prompt":"Summarize this: planning reduces stress.","category":"summarization","reference":"Planning helps reduce stress."}
+{"id":"p136","prompt":"Rewrite this idea more simply: uncertainty makes action harder but clear steps reduce hesitation.","category":"rewriting","reference":"Clear steps make it easier to take action."}
+{"id":"p137","prompt":"Rewrite: self criticism can reduce motivation.","category":"rewriting","reference":"Being too critical of yourself can lower motivation."}
+{"id":"p138","prompt":"Rewrite: progress often comes from small repeated efforts.","category":"rewriting","reference":"Small consistent efforts lead to progress."}
+{"id":"p139","prompt":"Rewrite: patience is important for learning.","category":"rewriting","reference":"Learning requires patience."}
+{"id":"p140","prompt":"Rewrite: good habits make life easier.","category":"rewriting","reference":"Building good habits helps simplify life."}
+{"id":"p141","prompt":"Why is consistency important for long term goals?","category":"short_reasoning","reference":"Consistency helps maintain steady progress over time."}
+{"id":"p142","prompt":"Why do people learn better with practice?","category":"short_reasoning","reference":"Practice reinforces knowledge and skills."}
+{"id":"p143","prompt":"Why can planning reduce stress?","category":"short_reasoning","reference":"Planning reduces uncertainty and improves control."}
+{"id":"p144","prompt":"Why do small habits matter?","category":"short_reasoning","reference":"Small habits accumulate into large improvements."}
+{"id":"p145","prompt":"Why does rest improve productivity?","category":"short_reasoning","reference":"Rest restores energy and improves focus."}
+{"id":"p146","prompt":"Why do people procrastinate?","category":"short_reasoning","reference":"People procrastinate to avoid discomfort or difficult tasks."}
+{"id":"p147","prompt":"Why is learning from mistakes useful?","category":"short_reasoning","reference":"Mistakes reveal areas that need improvement."}
+{"id":"p148","prompt":"Why is feedback important?","category":"short_reasoning","reference":"Feedback helps identify strengths and weaknesses."}
+{"id":"p149","prompt":"Why do routines help productivity?","category":"short_reasoning","reference":"Routines reduce decision fatigue."}
+{"id":"p150","prompt":"Why is reflection important for improvement?","category":"short_reasoning","reference":"Reflection helps people learn from experience."}
